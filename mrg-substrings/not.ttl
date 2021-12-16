@@ -1,0 +1,17 @@
+<http://marineregions.org/mrgid/27214?t=1639222498> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaSPAEUBirdsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/27214/geometries?source=90&attributeValue=GR4340023>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4280>, <http://marineregions.org/mrgid/5679>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/27214>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:34:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=GR4340023>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Notiodytiki Gavdos Kai Gavdopoula"@gr;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(24.074689 34.850567)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/4280> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mediterranean Sea - Eastern Basin"@en.
+<http://marineregions.org/mrgid/5679> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Greek Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/27214?t=1639222498>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/not.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/not.ttl>.

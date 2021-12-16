@@ -1,0 +1,31 @@
+<http://marineregions.org/mrgid/28869?t=1639223046> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaAndSiteOfCommunityImportanceSPAAndSCIEUBirdsAndHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/28869/geometries?source=90&attributeValue=ES0000233>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4279>, <http://marineregions.org/mrgid/5693>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/28869>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:44:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=ES0000233>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "D'AdDaia A S'Albufera"@es;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.239924 39.989158)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/4279> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mediterranean Sea - Western Basin"@en.
+<http://marineregions.org/mrgid/5693> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanish Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/28869?t=1639223046>.
+<http://marineregions.org/mrgid/8182?t=1639223959> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Seamounts>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/8182/geometries?source=111&attributeValue=730>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1904>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/8182>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:59:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#historyNote> "Previous coordinates: Lat: -38.53333333; Long: 47.7"@en;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-10. Proposer: Russian Federal Research Institute of Fisheries and Oceanography (VNIRO). Year of proposal: 1993."@en, "GEBCO: discoverer and year of discovery: Discoverer: Russian research vessel  \"Zvezda Sevastopolya\". Year of discovery: 1980. History: Named after Russian Fisheries oceanographer N. N. Danilevsky (1904-1980), explorer of the Atlantic and Indian Oceans."@en, "Additional information: Minimum depth (m): 400."@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Danilevsky Seamount"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(47.7 -38.533333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1904> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indian Ocean"@en.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/8182?t=1639223959>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/da.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/da.ttl>.

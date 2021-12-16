@@ -1,0 +1,100 @@
+<http://marineregions.org/mrgid/42835?t=1639221623> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/42835/geometries?source=213&attributeValue=30G9>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36329>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/42835>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:20:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "30G9"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(20 51,19 51,19 50.5,20 50.5,20 51)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(19.5 50.750623872529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1539 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/42835?t=1639221623> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1539.
+<http://marineregions.org/mrgid/36329> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Statistical Rectangles"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/42835?t=1639221623>.
+<http://marineregions.org/mrgid/43916?t=1639221672> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/43916/geometries?source=213&attributeValue=30J1>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36329>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/43916>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:21:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "30J1"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(32 51,31 51,31 50.5,32 50.5,32 51)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(31.5 50.750623872529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1559 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/43916?t=1639221672> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1559.
+<http://marineregions.org/mrgid/36329> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Statistical Rectangles"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/43916?t=1639221672>.
+<http://marineregions.org/mrgid/38963?t=1639221880> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/38963/geometries?source=213&attributeValue=30E4>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36329>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/38963>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:24:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "30E4"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-5 51,-6 51,-6 50.5,-5 50.5,-5 51)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-5.5 50.750623872529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1646 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/38963?t=1639221880> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1646.
+<http://marineregions.org/mrgid/36329> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Statistical Rectangles"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/38963?t=1639221880>.
+<http://marineregions.org/mrgid/43287?t=1639222292> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/43287/geometries?source=213&attributeValue=30H4>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36329>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/43287>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:31:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "30H4"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(25 51,24 51,24 50.5,25 50.5,25 51)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(24.5 50.750623872529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1799 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/43287?t=1639222292> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1799.
+<http://marineregions.org/mrgid/36329> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Statistical Rectangles"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/43287?t=1639222292>.
+<http://marineregions.org/mrgid/43091?t=1639222822> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/43091/geometries?source=213&attributeValue=30H2>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36329>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/43091>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:40:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "30H2"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(23 51,22 51,22 50.5,23 50.5,23 51)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(22.5 50.750623872529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1997 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/43091?t=1639222822> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1997.
+<http://marineregions.org/mrgid/36329> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Statistical Rectangles"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/43091?t=1639222822>.
+<http://marineregions.org/mrgid/40135?t=1639222997> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/40135/geometries?source=213&attributeValue=30E2>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36329>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/40135>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:43:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "30E2"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-7 51,-8 51,-8 50.5,-7 50.5,-7 51)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-7.5 50.750623872529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2052 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/40135?t=1639222997> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2052.
+<http://marineregions.org/mrgid/36329> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Statistical Rectangles"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/40135?t=1639222997>.
+<http://marineregions.org/mrgid/36424?t=1639223755> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/36424/geometries?source=213&attributeValue=30A0>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36329>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/36424>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:55:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "30A0"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-43 51,-44 51,-44 50.5,-43 50.5,-43 51)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-43.5 50.750623872529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2346 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/36424?t=1639223755> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2346.
+<http://marineregions.org/mrgid/36329> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESStatisticalRectangles>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Statistical Rectangles"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/36424?t=1639223755>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/30.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/30.ttl>.

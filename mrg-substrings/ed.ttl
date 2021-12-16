@@ -1,0 +1,22 @@
+<http://marineregions.org/mrgid/7714?t=1639223474> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Seamounts>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/7714/geometries?source=111&attributeValue=863>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4300>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/7714>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:51:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:9222842>;
+    <http://www.w3.org/2004/02/skos/core#historyNote> "Previous coordinates: Lat: 27.62; Long: 132.2416667"@en;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-14. Proposer: Japanese Committee on Undersea Feature Names (JCUFN). Year of proposal: 2000."@en, "GEBCO: discoverer and year of discovery: History: Named from the nearby Edateku Island, Japan."@en, "Additional information: Taken from Japanese Bathymetric Chart No. 6725. Minimum depth (m): 2500. Maximum depth (m): 4000. Total relief (m): 1500."@en, "Coordinates in ACUF: Latitude: 27.616667; Longitude: 132.233333"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Edateku Seamount"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(132.241667 27.62)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/4300> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippine Sea"@en.
+_:n3-2251 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "9222842".
+<urn:acuf:ufi:9222842> <https://schema.org/identifier> _:n3-2251;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D9222842>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/7714?t=1639223474>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/ed.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/ed.ttl>.

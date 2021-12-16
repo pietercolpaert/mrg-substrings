@@ -1,0 +1,38 @@
+<http://marineregions.org/mrgid/176?t=1639222242> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Canton>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/899>, <http://marineregions.org/mrgid/900>, <http://marineregions.org/mrgid/901>, <http://marineregions.org/mrgid/902>, <http://marineregions.org/mrgid/903>, <http://marineregions.org/mrgid/904>, <http://marineregions.org/mrgid/905>, <http://marineregions.org/mrgid/906>, <http://marineregions.org/mrgid/907>, <http://marineregions.org/mrgid/908>, <http://marineregions.org/mrgid/909>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/176/geometries?source=2&attributeValue=NH>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/97>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/176>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:30:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wormhout"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(2.57018 50.91759,2.23961 50.91759,2.23961 50.77702,2.57018 50.77702,2.57018 50.91759)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(2.404895 50.84731)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/899> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Broxeele"@fr.
+<http://marineregions.org/mrgid/900> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Volckerinckhove"@fr.
+<http://marineregions.org/mrgid/901> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zegerscappel"@fr.
+<http://marineregions.org/mrgid/902> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herzeele"@fr.
+<http://marineregions.org/mrgid/903> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ledringhem"@fr.
+<http://marineregions.org/mrgid/904> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wormhout"@fr.
+<http://marineregions.org/mrgid/905> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Esquelbecq"@fr.
+<http://marineregions.org/mrgid/906> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lederzeele"@fr.
+<http://marineregions.org/mrgid/907> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bollezeele"@fr.
+<http://marineregions.org/mrgid/908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merckeghem"@fr.
+<http://marineregions.org/mrgid/909> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieurlet"@fr.
+<http://marineregions.org/mrgid/97> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Department>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nord"@fr.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/176?t=1639222242>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/wo.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/wo.ttl>.

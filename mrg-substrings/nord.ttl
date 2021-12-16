@@ -1,0 +1,25 @@
+<http://marineregions.org/mrgid/25001?t=1639221521> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bank>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/25001/geometries?source=111&attributeValue=2214>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4247>;
+    <http://marineregions.org/ns/ontology#replaces> <http://marineregions.org/mrgid/8044>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/25001>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:18:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Nordkap Bank"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:-154690>;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-15. Proposer: V. A. Vasnetsov, Floating Marine Scientific Institute (Plavmornin), Russia. Year of proposal: 1929."@en, "GEBCO: discoverer and year of discovery: Discoverer: Russian research vessel \"Persey\". Year of discovery: 1929. History: Named after the nearby Cape North (\"Nordkapp\" in Norwegian)."@en, "Coordinates in ACUF: Latitude: 72.5; Longitude: 25"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nordkapp Bank"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(26.25 72)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/4247> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Barentsz Sea"@en.
+<http://marineregions.org/mrgid/8044> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bank>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nordcapp Bank"@en.
+_:n3-1493 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "-154690".
+<urn:acuf:ufi:-154690> <https://schema.org/identifier> _:n3-1493;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D-154690>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/25001?t=1639221521>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/nord.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/nord.ttl>.

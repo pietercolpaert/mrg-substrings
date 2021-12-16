@@ -1,0 +1,118 @@
+<http://marineregions.org/mrgid/6536?t=1639221023> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Plain>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/6536/geometries?source=111&attributeValue=53>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/6536>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:10:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Alaskan Abyssal Plain"@en, "Alaskan Plain"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:-152242>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alaska Plain"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-143 55)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+_:n3-1334 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "-152242".
+<urn:acuf:ufi:-152242> <https://schema.org/identifier> _:n3-1334;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D-152242>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/6536?t=1639221023>.
+<http://marineregions.org/mrgid/24803?t=1639221214> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bank>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/24803/geometries?source=110&attributeValue=49>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4247>, <http://marineregions.org/mrgid/5690>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/24803>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:13:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Al’banov Bank"@en, "Banka Al’banova"@ru, "Банка Альбанова"@ru;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:9196223>;
+    <http://www.w3.org/2004/02/skos/core#historyNote> "Previous coordinates: Lat: 76.93; Long: 64.1; minLat: 76.53333333; minLong: 61.03333333; maxLat: 77.33333333; maxLong: 67.16666667"@en;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-17. Proposer: Galina V. Agapova, Geological Institute of the Russian Academy of Sciences (GIN RAS). Year of proposal: 2004."@en, "GEBCO: discoverer and year of discovery: History: Named after Valerian I. Al'banov (1882-1919), Russian navigator on the ship \"Svyataya Anna\" and leader of the expedition of G. Brusilov (1912-1914) in the Arctic. Al'banov and fourteen sailors left the drifting ship near 83°N-60°E and after three"@en, "Additional information: Minimum depth (m): 68."@en, "Coordinates in ACUF: Latitude: 76.933333; Longitude: 64.1"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Al'banov Bank"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(67.166667 77.333333,61.033333 77.333333,61.033333 76.533333,67.166667 76.533333,67.166667 77.333333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(64.00769778 76.95140025)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/4247> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Barentsz Sea"@en.
+<http://marineregions.org/mrgid/5690> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Russian Exclusive economic Zone"@en.
+_:n3-1402 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "9196223".
+<urn:acuf:ufi:9196223> <https://schema.org/identifier> _:n3-1402;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D9196223>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/24803?t=1639221214>.
+<http://marineregions.org/mrgid/6544?t=1639222349> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Seamounts>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/6544/geometries?source=111&attributeValue=72>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/6544>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:32:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:-152270>;
+    <http://www.w3.org/2004/02/skos/core#historyNote> "Previous coordinates: Lat: 18.95; Long: -153.4666667"@en;
+    <http://www.w3.org/2004/02/skos/core#note> "Coordinates in ACUF: Latitude: 18.95; Longitude: -153.466667"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexander Seamount"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-153.454307 18.98506558)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+_:n3-1821 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "-152270".
+<urn:acuf:ufi:-152270> <https://schema.org/identifier> _:n3-1821;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D-152270>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/6544?t=1639222349>.
+<http://marineregions.org/mrgid/25603?t=1639223443> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/25603/geometries?source=80&attributeValue=25603>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3324>, <http://marineregions.org/mrgid/8378>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/25603>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:50:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Algerian part of the Alboran Sea"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-1.196946 36.174195,-2.222001 36.174195,-2.222001 35.071936,-1.196946 35.071936,-1.196946 36.174195)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-1.758345 35.568492)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.14284/402>.
+<http://marineregions.org/mrgid/3324> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alboran Sea"@en.
+<http://marineregions.org/mrgid/8378> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Algerian Exclusive Economic Zone"@en.
+<https://doi.org/10.14284/402> <http://www.w3.org/2000/01/rdf-schema#label> "VLIZ (2020). Intersect of IHO Sea Areas and Exclusive Economic Zones (version 4)   ".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/25603?t=1639223443>.
+<http://marineregions.org/mrgid/5587?t=1639223924> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Coast>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/15048>, <http://marineregions.org/mrgid/19777>, <http://marineregions.org/mrgid/19914>, <http://marineregions.org/mrgid/19922>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/5587/geometries?source=160&attributeValue=5587>;
+    <http://marineregions.org/ns/ontology#isAdjacentTo> <http://marineregions.org/mrgid/1912>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/5602>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/5587>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:58:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Algarve"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-7.3987 37.5301,-8.9964 37.5301,-8.9964 36.9613,-7.3987 36.9613,-7.3987 37.5301)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-8.19755 37.2457)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.fao.org/3/CA2741EN/ca2741en.pdf>.
+<http://marineregions.org/mrgid/15048> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Town>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alagoa"@en.
+<http://marineregions.org/mrgid/19777> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#InhabitedPlace>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portimão"@en.
+<http://marineregions.org/mrgid/19914> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#InhabitedPlace>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lagos"@pt.
+<http://marineregions.org/mrgid/19922> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#InhabitedPlace>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albufeira"@pt.
+<http://marineregions.org/mrgid/1912> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Atlantic Ocean"@en.
+<http://marineregions.org/mrgid/5602> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#NationalDistrict>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Distrito de Faro"@pt.
+<http://www.fao.org/3/CA2741EN/ca2741en.pdf> <http://www.w3.org/2000/01/rdf-schema#label> "ASFA thesaurus".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/5587?t=1639223924>.
+<http://marineregions.org/mrgid/1582?t=1639223970> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1582/geometries?source=3&attributeValue=00AEGJ>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/116>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1582>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:59:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alperton"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-0.276883 51.54922,-0.312541 51.54922,-0.312541 51.53193,-0.276883 51.53193,-0.276883 51.54922)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-0.294712 51.54058)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/116> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#District>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brent"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1582?t=1639223970>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/al.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/al.ttl>.

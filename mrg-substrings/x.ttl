@@ -1,0 +1,43 @@
+<http://marineregions.org/mrgid/57144?t=1639224224> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Hills>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/57144/geometries?source=111&attributeValue=6807>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4300>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/57144>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:03:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: discoverer and year of discovery: Discoverer: Chinese research vessel \"Xiang Yang Hong 10\". Year of discovery: 2014. History: Xiaoman is the eighth term of \"The 24 Solar Terms\" and means \"the summer ripe grain begins to fill full, but not mature yet\". The 24 Solar Terms is the Chinese heritage and knowledge in China of time and practices developed through observation of the sun's annual motion. The ancient Chinese divided the sun's annual circular motion into 24 segments. Each segment was called a specific Solar Term."@en, "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-30. Proposer: The Second Institute of Oceanography (SOA), China. History: 2017."@en, "Additional information: This feature has a polygon shape, with a smooth NW slope and a steep SE slope. The 24 Solar Terms has been inscribed on the UNESCO's Representative List of the Intangible Cultural Heritage of Humanity. Minimum depth (m): 2600. Maximum depth (m): 3400. Total relief (m): 800. Dimension: 9 km × 8.5 km"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Xiaoman Hill"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(134.5467 15.5433)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/4300> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippine Sea"@en.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/57144?t=1639224224>.
+<http://marineregions.org/mrgid/36381?t=1639226000> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/36381/geometries?source=212&attributeValue=14.b.2>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36328>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/36381>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:33:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "XIVb2"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-26.999999954149 68.618454049529,-43.999999969982 68.618454049529,-43.999999969982 59.000000040572,-26.999999954149 59.000000040572,-26.999999954149 68.618454049529)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-35.180596529623 63.473541761257)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-845 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/36381?t=1639226000> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-845.
+<http://marineregions.org/mrgid/36328> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Areas"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/36381?t=1639226000>.
+<http://marineregions.org/mrgid/36386?t=1639226307> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/36386/geometries?source=212&attributeValue=14.a>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/36328>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/36386>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:38:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "XIVa"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-10.999999939248 90.000000069443,-39.999999966256 90.000000069443,-39.999999966256 68.000000048953,-10.999999939248 68.000000048953,-10.999999939248 90.000000069443)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-17.838800773406 76.228749052599)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-970 <http://www.w3.org/ns/prov#wasAttributedTo> <http://gis.ices.dk/>.
+<http://marineregions.org/mrgid/36386?t=1639226307> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-970.
+<http://marineregions.org/mrgid/36328> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ICESAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES Areas"@en.
+<http://gis.ices.dk/> <http://www.w3.org/2000/01/rdf-schema#label> "International Council for the Exploration of the Sea (ICES)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/36386?t=1639226307>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/x.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/x.ttl>.

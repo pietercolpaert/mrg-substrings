@@ -1,0 +1,23 @@
+<http://marineregions.org/mrgid/24949?t=1639221381> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Seamounts>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/24949/geometries?source=111&attributeValue=5781>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>, <http://marineregions.org/mrgid/5690>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/24949>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:16:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:12358112>;
+    <http://www.w3.org/2004/02/skos/core#note> ": Previous coordinates 2011: minLat: 48.94, minLong: -153.06, maxLat: 49.12, maxLong: -153.61"@en, "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-23. Proposer: Rainer Gersonde, Alfred-Wegener Institute for Polar and Marine Research (AWI), Germany. Year of proposal: 2009."@en, "GEBCO: discoverer and year of discovery: Discoverer: German research vessel \"Sonne\". Year of discovery: 2009. History: Named after the German Prof. Dr. Wolfgang Krauss (1931-2009), one of the leading scientists in theoretical oceanography. He worked as a professor at the Christian-Albrecht-Unive"@en, "Additional information: Expedition conducted by T. Dufek, A.-K. Rohardt and C. Heinzl. This feature has a steep elongated shape. Minimum depth (m): 3513. Maximum depth (m): 4900. Total relief (m): 1387. Dimension: 24 km x 18 km."@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Krauss Seamount"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-153.408333333 49.03)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<http://marineregions.org/mrgid/5690> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Russian Exclusive economic Zone"@en.
+_:n3-1451 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "12358112".
+<urn:acuf:ufi:12358112> <https://schema.org/identifier> _:n3-1451;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D12358112>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/24949?t=1639221381>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/kr.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/kr.ttl>.

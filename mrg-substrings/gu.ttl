@@ -1,0 +1,103 @@
+<http://marineregions.org/mrgid/8940?t=1639221176> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Gulf>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/8941>, <http://marineregions.org/mrgid/18889>, <http://marineregions.org/mrgid/24604>, <http://marineregions.org/mrgid/33091>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=0>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=1>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=10>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=11>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=12>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=2>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=3>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=4>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=5>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=6>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=8>, <http://marineregions.org/mrgid/8940/geometries?source=66&attributeValue=9>;
+    <http://marineregions.org/ns/ontology#isAdjacentTo> <http://marineregions.org/mrgid/4289>, <http://marineregions.org/mrgid/8928>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/7135>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/24609>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/8940>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:12:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gulf of Maine"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-62.28 46.02,-71.1 46.02,-71.1 39.65,-62.28 39.65,-62.28 46.02)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-67.31 44.5722222222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1386 <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.dfo-mpo.gc.ca/Library/343523.pdf>.
+<http://marineregions.org/mrgid/8940?t=1639221176> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1386.
+<http://marineregions.org/mrgid/8941> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bay>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Casco Bay"@en.
+<http://marineregions.org/mrgid/18889> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bay>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plymouth Bay"@en.
+<http://marineregions.org/mrgid/24604> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Basin>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wilkinson basin"@en.
+<http://marineregions.org/mrgid/33091> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MountainRange>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cashes Ledge"@en.
+<http://marineregions.org/mrgid/4289> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bay of Fundy"@en.
+<http://marineregions.org/mrgid/8928> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Peninsula>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cape Cod"@en.
+<http://marineregions.org/mrgid/7135> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#GeneralSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North West Atlantic"@en.
+<http://marineregions.org/mrgid/24609> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Stream>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kennebec River"@en.
+<http://www.dfo-mpo.gc.ca/Library/343523.pdf> <http://www.w3.org/2000/01/rdf-schema#label> "Van Guelpen, L. and M.K. Kennedy. 2011. The history of Canadian registers of marine species 2001-2009. Can. Tech. Rep. Fish. Aquat. Sci. 2906: iv + 20 pp.".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/8940?t=1639221176>.
+<http://marineregions.org/mrgid/25305?t=1639221980> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/25305/geometries?source=80&attributeValue=25305>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4287>, <http://marineregions.org/mrgid/8430>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/25305>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:26:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guatemalan part of the Caribbean Sea"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-88.164796 16.073693,-88.910573 16.073693,-88.910573 15.698536,-88.164796 15.698536,-88.164796 16.073693)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-88.519979 15.903507)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.14284/402>.
+<http://marineregions.org/mrgid/4287> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Caribbean Sea"@en.
+<http://marineregions.org/mrgid/8430> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guatemalan Exclusive Economic Zone"@en.
+<https://doi.org/10.14284/402> <http://www.w3.org/2000/01/rdf-schema#label> "VLIZ (2020). Intersect of IHO Sea Areas and Exclusive Economic Zones (version 4)   ".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/25305?t=1639221980>.
+<http://marineregions.org/mrgid/29370?t=1639222816> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaAndSiteOfCommunityImportanceSPAAndSCIEUBirdsAndHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/29370/geometries?source=90&attributeValue=FI0200075>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2402>, <http://marineregions.org/mrgid/5676>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/29370>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:40:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=FI0200075>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gummandooran Saaristo"@fi;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(21.38677 61.691728)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/2402> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gulf of Bothnia"@en.
+<http://marineregions.org/mrgid/5676> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Finnish Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/29370?t=1639222816>.
+<http://marineregions.org/mrgid/2466?t=1639223462> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/24258>, <http://marineregions.org/mrgid/24259>, <http://marineregions.org/mrgid/24260>, <http://marineregions.org/mrgid/24543>, <http://marineregions.org/mrgid/24704>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/2466/geometries?source=30&attributeValue=200>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2464>, <http://marineregions.org/mrgid/4377>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/2466>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:51:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guernsey"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-2.5031 49.5113,-2.6792 49.5113,-2.6792 49.4226,-2.5031 49.4226,-2.5031 49.5113)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-2.59115 49.46695)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.fao.org/3/CA2741EN/ca2741en.pdf>.
+<http://marineregions.org/mrgid/24258> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Lighthouse>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Les Casquets"@en.
+<http://marineregions.org/mrgid/24259> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Lighthouse>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Les Hanois"@en.
+<http://marineregions.org/mrgid/24260> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Lighthouse>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Point Robert"@en.
+<http://marineregions.org/mrgid/24543> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Lighthouse>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Castle Breakwater"@en.
+<http://marineregions.org/mrgid/24704> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Lighthouse>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "White Rock Pier"@en.
+<http://marineregions.org/mrgid/2464> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Archipelago>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Channel Islands"@en.
+<http://marineregions.org/mrgid/4377> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#DependentState>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guernsey"@en.
+<http://www.fao.org/3/CA2741EN/ca2741en.pdf> <http://www.w3.org/2000/01/rdf-schema#label> "ASFA thesaurus".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/2466?t=1639223462>.
+<http://marineregions.org/mrgid/50257?t=1639223472> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Coast>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/50257/geometries?source=136&attributeValue=50257>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/8599>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/50257>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:51:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Additional information: Derived from ESRI World Countries 2014"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guamanian Coast"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(144.956763625 13.6542674304,144.618232966 13.6542674304,144.618232966 13.234170437,144.956763625 13.234170437,144.956763625 13.6542674304)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(144.65897435444 13.389072326048)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2249 <http://www.w3.org/2000/01/rdf-schema#label> "VLIZ (2015). National coastlines based on ESRI Countries (2014)".
+<http://marineregions.org/mrgid/50257?t=1639223472> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2249.
+<http://marineregions.org/mrgid/8599> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#DependentState>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guam"@en.
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/50257?t=1639223472>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/gu.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/gu.ttl>.

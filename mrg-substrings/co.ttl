@@ -1,0 +1,323 @@
+<http://marineregions.org/mrgid/23268?t=1639226548> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ProvinceAdministrative>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/23268/geometries?source=155&attributeValue=14>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3391>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/23268>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:42:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Córdoba"@es;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-4.8333333333 38)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://www.wikipedia.org/>.
+<http://marineregions.org/mrgid/3391> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#AutonomousRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Andalusia"@en.
+<https://www.wikipedia.org/> <http://www.w3.org/2000/01/rdf-schema#label> "Wikipedia".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/23268?t=1639226548>.
+<http://marineregions.org/mrgid/4675?t=1639226586> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#SandbankSystem>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/4689>, <http://marineregions.org/mrgid/4690>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=14346>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=2423>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=3090>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=3091>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=3092>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=3094>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=3095>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4688>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4694>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4698>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4699>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4701>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4702>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4704>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4707>, <http://marineregions.org/mrgid/4675/geometries?source=63&attributeValue=4709>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=3096>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4693>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4695>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4696>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4697>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4700>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4703>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4705>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4706>, <http://marineregions.org/mrgid/4675/geometries?source=64&attributeValue=4708>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3293>, <http://marineregions.org/mrgid/2399>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/4675>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:43:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Kustbanken"@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Coastal Banks"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point( )"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+<http://marineregions.org/mrgid/4689> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#SandbankSystem>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Coastal Banks"@en.
+<http://marineregions.org/mrgid/4690> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#SandbankSystem>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Coastal Banks"@en.
+<http://marineregions.org/mrgid/3293> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgian Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/2399> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bight>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Bight"@en.
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/4675?t=1639226586>.
+<http://marineregions.org/mrgid/32722?t=1639220489> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Inlet>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/32722/geometries?source=169&attributeValue=32722>;
+    <http://marineregions.org/ns/ontology#isAdjacentTo> <http://marineregions.org/mrgid/4366>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/9092>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/32722>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:01:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Corner Inlet "@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(146.33333 -38.78333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.geonames.org>.
+<http://marineregions.org/mrgid/4366> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bass Strait"@en.
+<http://marineregions.org/mrgid/9092> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Victoria"@en.
+<http://www.geonames.org> <http://www.w3.org/2000/01/rdf-schema#label> "GeoNames".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/32722?t=1639220489>.
+<http://marineregions.org/mrgid/2878?t=1639220970> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/2878/geometries?source=182&attributeValue=53082>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2512>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/2878>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:09:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Colfontaine"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(3.871876 50.43465,3.813862 50.43465,3.813862 50.37936,3.871876 50.37936,3.871876 50.43465)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(3.842869 50.407)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1322 <http://www.w3.org/ns/prov#wasAttributedTo> <http://statbel.fgov.be/>.
+<http://marineregions.org/mrgid/2878?t=1639220970> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1322.
+<http://marineregions.org/mrgid/2512> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Arrondissement>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mons"@fr.
+<http://statbel.fgov.be/> <http://www.w3.org/2000/01/rdf-schema#label> "Nationaal Instituut voor de Statistiek (NIS) / National Statistical Service".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/2878?t=1639220970>.
+<http://marineregions.org/mrgid/27143?t=1639221008> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaAndSiteOfCommunityImportanceSPAAndSCIEUBirdsAndHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/27143/geometries?source=90&attributeValue=ES5110020>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3322>, <http://marineregions.org/mrgid/5693>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/27143>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:10:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=ES5110020>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costes del Garraf"@es;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(1.857035 41.197905)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/3322> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Balearic Sea"@en.
+<http://marineregions.org/mrgid/5693> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanish Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/27143?t=1639221008>.
+<http://marineregions.org/mrgid/48406?t=1639221177> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/48406/geometries?source=50&attributeValue=QLD-CS>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/47789>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/48406>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:12:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:tdwg:wgsrpd:QLD-CS>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Coral Sea Is. Territory"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(150.01445007324 -14.64554977417,145.4386138916 -14.64554977417,145.4386138916 -16.135559082031,150.01445007324 -16.135559082031,150.01445007324 -14.64554977417)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(145.71945100256 -14.740523584062)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://github.com/tdwg/wgsrpd>.
+<http://marineregions.org/mrgid/47789> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level3>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Queensland"@en.
+_:n3-1387 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> "TDWG code";
+    <https://schema.org/value> "QLD-CS".
+<urn:tdwg:wgsrpd:QLD-CS> <https://schema.org/identifier> _:n3-1387;
+    <https://schema.org/url> <https://github.com/tdwg/wgsrpd>.
+<https://github.com/tdwg/wgsrpd> <http://www.w3.org/2000/01/rdf-schema#label> "TDWG - World Geographical Scheme for Recording Plant Distributions".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/48406?t=1639221177>.
+<http://marineregions.org/mrgid/62597?t=1639221194> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TerritorialSea>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/62597/geometries?source=179&attributeValue=62597>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/5770>, <http://marineregions.org/mrgid/62596>;
+    <http://marineregions.org/ns/ontology#replaces> <http://marineregions.org/mrgid/49230>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/62597>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:13:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Colombian 12 NM (Serrana)"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-80.01884 14.67351,-80.57746 14.67351,-80.57746 14.08075,-80.01884 14.08075,-80.01884 14.67351)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-80.30185 14.38087)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.marineregions.org>.
+<http://marineregions.org/mrgid/5770> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bank>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Serrana Bank"@en.
+<http://marineregions.org/mrgid/62596> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Colombian Exclusive Economic Zone (Serrana)"@en.
+<http://marineregions.org/mrgid/49230> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TerritorialSea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Colombian 12 NM (Serrana)"@en.
+<http://www.marineregions.org> <http://www.w3.org/2000/01/rdf-schema#label> "Flanders Marine Institute (2019). Maritime Boundaries Geodatabase: Territorial Seas (12NM), version 3. Available online at http://www.marineregions.org/. https://doi.org/10.14284/387".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/62597?t=1639221194>.
+<http://marineregions.org/mrgid/8424?t=1639222499> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/25302>, <http://marineregions.org/mrgid/25566>, <http://marineregions.org/mrgid/26837>, <http://marineregions.org/mrgid/26840>, <http://marineregions.org/mrgid/49142>, <http://marineregions.org/mrgid/49375>, <http://marineregions.org/mrgid/49516>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/8424/geometries?source=79&attributeValue=8424>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2162>;
+    <http://marineregions.org/ns/ontology#isPartlyPartOf> <http://marineregions.org/mrgid/4287>, <http://marineregions.org/mrgid/1908>;
+    <http://marineregions.org/ns/ontology#partlyContains> <http://marineregions.org/mrgid/7457>, <http://marineregions.org/mrgid/7464>, <http://marineregions.org/mrgid/48968>, <http://marineregions.org/mrgid/48970>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/8424>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:34:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.marineregions.org/eezdetails.php?mrgid=8424>;
+    <http://www.w3.org/2004/02/skos/core#note> "Centroid calculation method: Centroid"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rican Exclusive Economic Zone"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-80 11.60171,-90.43957 11.60171,-90.43957 2.14762,-80 2.14762,-80 11.60171)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-86.50737 6.73691)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.marineregions.org>.
+<http://marineregions.org/mrgid/25302> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rican part of the Caribbean Sea"@en.
+<http://marineregions.org/mrgid/25566> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rican part of the North Pacific Ocean"@en.
+<http://marineregions.org/mrgid/26837> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WorldMarineHeritageSite>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "The Area de Conservación Guanacaste "@en.
+<http://marineregions.org/mrgid/26840> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WorldMarineHeritageSite>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cocos Island National Park"@en.
+<http://marineregions.org/mrgid/49142> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TerritorialSea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rican 12 NM"@en.
+<http://marineregions.org/mrgid/49375> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ContiguousZone>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rican 24 NM"@en.
+<http://marineregions.org/mrgid/49516> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#InternalWaters>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rican Internal Waters"@en.
+<http://marineregions.org/mrgid/2162> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Nation>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rica"@en.
+<http://marineregions.org/mrgid/4287> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Caribbean Sea"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<http://marineregions.org/mrgid/7457> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Trench>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Middle America Trench"@en.
+<http://marineregions.org/mrgid/7464> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ridge>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cocos Ridge"@en.
+<http://marineregions.org/mrgid/48968> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#JointRegimeEEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Joint regime area Costa Rica - Ecuador (Galapagos)"@en.
+<http://marineregions.org/mrgid/48970> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#JointRegimeEEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Joint regime area Colombia - Dominican Republic"@en.
+<http://www.marineregions.org> <http://www.w3.org/2000/01/rdf-schema#label> "Flanders Marine Institute (2019). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 11. Available online at http://www.marineregions.org/. https://doi.org/10.14284/386".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/8424?t=1639222499>.
+<http://marineregions.org/mrgid/27925?t=1639222582> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaSPAEUBirdsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/27925/geometries?source=90&attributeValue=PTZPE0020>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1912>, <http://marineregions.org/mrgid/8361>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/27925>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:36:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=PTZPE0020>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa E Caldeirão - Ilha Do Corvo"@pt;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-31.105625 39.705085)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/1912> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Atlantic Ocean"@en.
+<http://marineregions.org/mrgid/8361> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portuguese Exclusive Economic Zone (Azores)"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/27925?t=1639222582>.
+<http://marineregions.org/mrgid/2867?t=1639222678> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/2867/geometries?source=182&attributeValue=52015>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2511>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/2867>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:37:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Courcelles"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(4.405239 50.52337,4.285634 50.52337,4.285634 50.42733,4.405239 50.42733,4.405239 50.52337)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.345437 50.47535)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1952 <http://www.w3.org/ns/prov#wasAttributedTo> <http://statbel.fgov.be/>.
+<http://marineregions.org/mrgid/2867?t=1639222678> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1952.
+<http://marineregions.org/mrgid/2511> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Arrondissement>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Charleroi"@fr.
+<http://statbel.fgov.be/> <http://www.w3.org/2000/01/rdf-schema#label> "Nationaal Instituut voor de Statistiek (NIS) / National Statistical Service".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/2867?t=1639222678>.
+<http://marineregions.org/mrgid/1628?t=1639222848> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1628/geometries?source=3&attributeValue=00AHGK>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/150>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1628>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:40:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Coulsdon West"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-0.11728 51.34016,-0.161888 51.34016,-0.161888 51.30023,-0.11728 51.30023,-0.11728 51.34016)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-0.139584 51.32019)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/150> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Borough>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Croydon"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1628?t=1639222848>.
+<http://marineregions.org/mrgid/27054?t=1639223022> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaSPAEUBirdsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/27054/geometries?source=90&attributeValue=ES0000348>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1912>, <http://marineregions.org/mrgid/8364>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/27054>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:43:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=ES0000348>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa del Norte de Fuerteventura"@es;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-13.949639 28.72914)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/1912> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Atlantic Ocean"@en.
+<http://marineregions.org/mrgid/8364> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanish Exclusive Economic Zone (Canary Islands)"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/27054?t=1639223022>.
+<http://marineregions.org/mrgid/7464?t=1639223042> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ridge>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/7464/geometries?source=110&attributeValue=632>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://marineregions.org/ns/ontology#isPartlyPartOf> <http://marineregions.org/mrgid/8424>, <http://marineregions.org/mrgid/8403>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/7464>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:44:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Cocos Island Ridge"@en, "Cordillera de Cocos"@es, "Khrebet Kokosovyy"@ru, "Хребет Кокосовый"@ru;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:-152977>;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: discoverer and year of discovery: History: Named from the nearby Cocos Island (Costa Rica)."@en, "Coordinates in ACUF: Latitude: 5.5; Longitude: -86"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cocos Ridge"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-84 7.5,-90 7.5,-90 2.5,-84 2.5,-84 7.5)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-86.706272065654 4.627398179554)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<http://marineregions.org/mrgid/8424> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rican Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/8403> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ecuadorian Exclusive Economic Zone (Galapagos)"@en.
+_:n3-2066 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "-152977".
+<urn:acuf:ufi:-152977> <https://schema.org/identifier> _:n3-2066;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D-152977>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/7464?t=1639223042>.
+<http://marineregions.org/mrgid/28771?t=1639223054> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SiteOfCommunityImportanceSCIEUHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/28771/geometries?source=90&attributeValue=IT8050054>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3386>, <http://marineregions.org/mrgid/5682>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/28771>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:44:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=IT8050054>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costiera Amalfitana Tra Maiori E Il Torrente Bonea"@it;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(14.682789 40.644825)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/3386> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tyrrhenian Sea"@en.
+<http://marineregions.org/mrgid/5682> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Italian Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/28771?t=1639223054>.
+<http://marineregions.org/mrgid/48072?t=1639223172> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/48072/geometries?source=50&attributeValue=CLC-CO>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/47587>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/25857>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/48072>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:46:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:tdwg:wgsrpd:CLC-CO>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Coquimbo"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-69.826675415039 -29.048057556152,-71.703338623047 -29.048057556152,-71.703338623047 -32.276672363281,-69.826675415039 -32.276672363281,-69.826675415039 -29.048057556152)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-70.885112015047 -30.618980305094)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://github.com/tdwg/wgsrpd>.
+<http://marineregions.org/mrgid/47587> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level3>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chile Central"@en.
+<http://marineregions.org/mrgid/25857> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Region>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Coquimbo"@en.
+_:n3-2121 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> "TDWG code";
+    <https://schema.org/value> "CLC-CO".
+<urn:tdwg:wgsrpd:CLC-CO> <https://schema.org/identifier> _:n3-2121;
+    <https://schema.org/url> <https://github.com/tdwg/wgsrpd>.
+<https://github.com/tdwg/wgsrpd> <http://www.w3.org/2000/01/rdf-schema#label> "TDWG - World Geographical Scheme for Recording Plant Distributions".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/48072?t=1639223172>.
+<http://marineregions.org/mrgid/1574?t=1639223376> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1574/geometries?source=3&attributeValue=00ADGG>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/154>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1574>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:49:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Colyers"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(0.181327 51.47829,0.156414 51.47829,0.156414 51.46422,0.181327 51.46422,0.181327 51.47829)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(0.1688705 51.47126)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/154> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Borough>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bexley"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1574?t=1639223376>.
+<http://marineregions.org/mrgid/3392?t=1639223394> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Coast>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29005>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29025>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29041>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29051>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29053>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29054>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29067>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29068>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29069>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29070>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29075>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29082>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29091>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29094>, <http://marineregions.org/mrgid/3392/geometries?source=154&attributeValue=29901>, <http://marineregions.org/mrgid/3392/geometries?source=160&attributeValue=3392>;
+    <http://marineregions.org/ns/ontology#isAdjacentTo> <http://marineregions.org/mrgid/3324>, <http://marineregions.org/mrgid/15197>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3391>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/3392>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:49:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa del Sol"@es;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-4.3661111111111 36.516388888889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2224 <http://www.w3.org/2000/01/rdf-schema#label> "(2001). The Times comprehensive atlas of the world. 10th ed. Times Books: London. ISBN 0-7230-0792-6. 67, 220, 124 plates pp.".
+_:n3-2223 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-2224.
+<http://marineregions.org/mrgid/3392?t=1639223394> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2223.
+<http://marineregions.org/mrgid/3324> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alboran Sea"@en.
+<http://marineregions.org/mrgid/15197> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#City>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Málaga"@en.
+<http://marineregions.org/mrgid/3391> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#AutonomousRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Andalusia"@en.
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/3392?t=1639223394>.
+<http://marineregions.org/mrgid/28056?t=1639223653> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SiteOfCommunityImportanceSCIEUHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/28056/geometries?source=90&attributeValue=ES7020124>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1912>, <http://marineregions.org/mrgid/8364>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/28056>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:54:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=ES7020124>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa de Garafía"@es;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-17.888252 28.850107)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/1912> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Atlantic Ocean"@en.
+<http://marineregions.org/mrgid/8364> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanish Exclusive Economic Zone (Canary Islands)"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/28056?t=1639223653>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/co.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/co.ttl>.

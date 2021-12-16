@@ -1,0 +1,366 @@
+<http://marineregions.org/mrgid/51319?t=1639222881> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51319/geometries?source=229&attributeValue=140%2F11>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50535>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51319>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:41:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 140/11"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-11.8 57.66667,-12 57.66667,-12 57.5,-11.8 57.5,-11.8 57.66667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-11.9 57.58333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2014 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51319?t=1639222881> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2014.
+<http://marineregions.org/mrgid/50535> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 140"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51319?t=1639222881>.
+<http://marineregions.org/mrgid/51508?t=1639222927> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51508/geometries?source=229&attributeValue=149%2F13>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50542>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51508>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:42:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 149/13"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-12.4 58.66667,-12.6 58.66667,-12.6 58.5,-12.4 58.5,-12.4 58.66667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-12.5 58.58333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2041 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51508?t=1639222927> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2041.
+<http://marineregions.org/mrgid/50542> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 149"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51508?t=1639222927>.
+<http://marineregions.org/mrgid/51496?t=1639222955> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51496/geometries?source=229&attributeValue=149%2F4>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50542>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51496>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:42:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 149/4"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-12.2 59,-12.4 59,-12.4 58.83333,-12.2 58.83333,-12.2 59)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-12.3 58.91667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2044 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51496?t=1639222955> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2044.
+<http://marineregions.org/mrgid/50542> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 149"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51496?t=1639222955>.
+<http://marineregions.org/mrgid/51705?t=1639223025> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51705/geometries?source=229&attributeValue=155%2F19>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50548>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51705>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:43:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 155/19"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-6.30812 58.5,-6.4 58.5,-6.4 58.46178,-6.30812 58.46178,-6.30812 58.5)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-6.36851 58.48705)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2058 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51705?t=1639223025> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2058.
+<http://marineregions.org/mrgid/50548> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 155"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51705?t=1639223025>.
+<http://marineregions.org/mrgid/51400?t=1639223101> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51400/geometries?source=229&attributeValue=143%2F14>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50538>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51400>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:45:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 143/14"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-8.2 57.66667,-8.4 57.66667,-8.4 57.5,-8.2 57.5,-8.2 57.66667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-8.3 57.58333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2083 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51400?t=1639223101> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2083.
+<http://marineregions.org/mrgid/50538> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 143"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51400?t=1639223101>.
+<http://marineregions.org/mrgid/50861?t=1639223137> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/50861/geometries?source=229&attributeValue=110%2F5>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50516>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/50861>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:45:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 110/5"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-3.05542 53.99918,-3.20155 53.99918,-3.20155 53.83251,-3.05542 53.83251,-3.05542 53.99918)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-3.13763 53.90656)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2101 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/50861?t=1639223137> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2101.
+<http://marineregions.org/mrgid/50516> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 110"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/50861?t=1639223137>.
+<http://marineregions.org/mrgid/51549?t=1639223144> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51549/geometries?source=229&attributeValue=150%2F25>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50543>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51549>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:45:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 150/25"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-11 58.33333,-11.2 58.33333,-11.2 58.16667,-11 58.16667,-11 58.33333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-11.1 58.25)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2105 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51549?t=1639223144> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2105.
+<http://marineregions.org/mrgid/50543> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 150"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51549?t=1639223144>.
+<http://marineregions.org/mrgid/50864?t=1639223167> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/50864/geometries?source=229&attributeValue=110%2F9>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50516>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/50864>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:46:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 110/9"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-3.20154 53.83251,-3.40155 53.83251,-3.40155 53.66583,-3.20154 53.66583,-3.20154 53.83251)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-3.30154 53.74917)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2119 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/50864?t=1639223167> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2119.
+<http://marineregions.org/mrgid/50516> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 110"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/50864?t=1639223167>.
+<http://marineregions.org/mrgid/50643?t=1639223202> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/50643/geometries?source=229&attributeValue=1%2F1>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50428>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/50643>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:46:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 1/1"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-0.80179 60.99946,-1.00181 60.99946,-1.00181 60.86002,-0.80179 60.86002,-0.80179 60.99946)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-0.90671 60.94878)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2136 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/50643?t=1639223202> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2136.
+<http://marineregions.org/mrgid/50428> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 1"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/50643?t=1639223202>.
+<http://marineregions.org/mrgid/51278?t=1639223258> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51278/geometries?source=229&attributeValue=14%2F12>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50441>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51278>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:47:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 14/12"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-0.60167 58.66604,-0.80168 58.66604,-0.80168 58.49937,-0.60167 58.49937,-0.60167 58.66604)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-0.70167 58.5827)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2161 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51278?t=1639223258> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2161.
+<http://marineregions.org/mrgid/50441> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 14"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51278?t=1639223258>.
+<http://marineregions.org/mrgid/51080?t=1639223304> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51080/geometries?source=229&attributeValue=131%2F20>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50527>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51080>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:48:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 131/20"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-10 56.5,-10.2 56.5,-10.2 56.35833,-10 56.35833,-10 56.5)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-10.1 56.42917)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2179 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51080?t=1639223304> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2179.
+<http://marineregions.org/mrgid/50527> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 131"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51080?t=1639223304>.
+<http://marineregions.org/mrgid/52152?t=1639223317> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/52152/geometries?source=229&attributeValue=19%2F16>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50446>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/52152>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:48:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 19/16"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-1.80165 57.44472,-1.95472 57.44472,-1.95472 57.33264,-1.80165 57.33264,-1.80165 57.44472)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-1.85064 57.36837)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2185 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/52152?t=1639223317> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2185.
+<http://marineregions.org/mrgid/50446> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 19"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/52152?t=1639223317>.
+<http://marineregions.org/mrgid/51052?t=1639223321> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51052/geometries?source=229&attributeValue=13%2F17>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50440>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51052>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:48:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 13/17"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-1.60169 58.49936,-1.8017 58.49936,-1.8017 58.33268,-1.60169 58.33268,-1.60169 58.49936)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-1.70169 58.41602)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2188 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51052?t=1639223321> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2188.
+<http://marineregions.org/mrgid/50440> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 13"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51052?t=1639223321>.
+<http://marineregions.org/mrgid/51896?t=1639223379> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51896/geometries?source=229&attributeValue=161%2F13>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50554>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51896>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:49:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 161/13"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-10.4 59.66667,-10.6 59.66667,-10.6 59.5,-10.4 59.5,-10.4 59.66667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-10.5 59.58333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2214 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51896?t=1639223379> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2214.
+<http://marineregions.org/mrgid/50554> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 161"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51896?t=1639223379>.
+<http://marineregions.org/mrgid/51398?t=1639223409> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51398/geometries?source=229&attributeValue=143%2F11>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50538>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51398>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:50:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 143/11"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-8.8 57.66667,-9 57.66667,-9 57.5,-8.8 57.5,-8.8 57.66667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-8.9 57.58333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2230 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51398?t=1639223409> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2230.
+<http://marineregions.org/mrgid/50538> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 143"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51398?t=1639223409>.
+<http://marineregions.org/mrgid/52107?t=1639223430> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/52107/geometries?source=229&attributeValue=176%2F20>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50568>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/52107>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:50:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 176/20"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-5.00188 60.34688,-5.16949 60.34688,-5.16949 60.33271,-5.00188 60.33271,-5.00188 60.34688)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-5.05775 60.33744)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2237 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/52107?t=1639223430> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2237.
+<http://marineregions.org/mrgid/50568> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 176"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/52107?t=1639223430>.
+<http://marineregions.org/mrgid/51742?t=1639223446> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51742/geometries?source=229&attributeValue=157%2F30>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50550>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51742>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:50:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 157/30"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-14 59.16667,-14.2 59.16667,-14.2 59,-14 59,-14 59.16667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-14.1 59.08333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2241 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51742?t=1639223446> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2241.
+<http://marineregions.org/mrgid/50550> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 157"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51742?t=1639223446>.
+<http://marineregions.org/mrgid/51105?t=1639223540> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51105/geometries?source=229&attributeValue=132%2F11>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50528>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51105>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:52:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 132/11"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-9.8 56.66667,-10 56.66667,-10 56.5,-9.8 56.5,-9.8 56.66667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-9.9 56.58333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2274 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51105?t=1639223540> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2274.
+<http://marineregions.org/mrgid/50528> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 132"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51105?t=1639223540>.
+<http://marineregions.org/mrgid/51095?t=1639223626> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51095/geometries?source=229&attributeValue=132%2F6>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50528>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51095>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:53:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 132/6"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-9.8 56.83333,-10 56.83333,-10 56.66667,-9.8 56.66667,-9.8 56.83333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-9.9 56.75)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2295 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51095?t=1639223626> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2295.
+<http://marineregions.org/mrgid/50528> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 132"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51095?t=1639223626>.
+<http://marineregions.org/mrgid/50996?t=1639223701> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/50996/geometries?source=229&attributeValue=127%2F8>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50523>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/50996>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:55:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 127/8"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-14.4 56.83333,-14.6 56.83333,-14.6 56.67011,-14.4 56.67011,-14.4 56.83333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-14.45514 56.78459)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2321 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/50996?t=1639223701> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2321.
+<http://marineregions.org/mrgid/50523> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 127"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/50996?t=1639223701>.
+<http://marineregions.org/mrgid/51553?t=1639223761> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51553/geometries?source=229&attributeValue=150%2F29>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50543>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51553>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:56:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 150/29"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-11.2 58.16667,-11.4 58.16667,-11.4 58,-11.2 58,-11.2 58.16667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-11.3 58.08333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2349 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51553?t=1639223761> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2349.
+<http://marineregions.org/mrgid/50543> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 150"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51553?t=1639223761>.
+<http://marineregions.org/mrgid/50756?t=1639223894> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/50756/geometries?source=229&attributeValue=106%2F5>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50512>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/50756>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:58:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 106/5"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-5.00155 52.99913,-5.20156 52.99913,-5.20156 52.83245,-5.00155 52.83245,-5.00155 52.99913)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-5.10155 52.91579)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2395 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/50756?t=1639223894> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2395.
+<http://marineregions.org/mrgid/50512> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 106"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/50756?t=1639223894>.
+<http://marineregions.org/mrgid/52009?t=1639223895> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/52009/geometries?source=229&attributeValue=165%2F21>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50558>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/52009>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:58:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 165/21"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-6.8 59.33333,-7 59.33333,-7 59.16667,-6.8 59.16667,-6.8 59.33333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-6.9 59.25)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2396 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/52009?t=1639223895> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2396.
+<http://marineregions.org/mrgid/50558> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 165"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/52009?t=1639223895>.
+<http://marineregions.org/mrgid/51615?t=1639223943> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51615/geometries?source=229&attributeValue=152%2F3>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50545>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51615>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:59:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 152/3"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-9.4 59,-9.6 59,-9.6 58.83333,-9.4 58.83333,-9.4 59)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-9.5 58.91667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2425 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51615?t=1639223943> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2425.
+<http://marineregions.org/mrgid/50545> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 152"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51615?t=1639223943>.
+<http://marineregions.org/mrgid/50934?t=1639223978> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/50934/geometries?source=229&attributeValue=12%2F7>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50439>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/50934>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:59:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 12/7"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-2.60173 58.83269,-2.80174 58.83269,-2.80174 58.66601,-2.60173 58.66601,-2.60173 58.83269)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-2.69907 58.74823)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2440 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/50934?t=1639223978> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2440.
+<http://marineregions.org/mrgid/50439> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 12"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/50934?t=1639223978>.
+<http://marineregions.org/mrgid/51492?t=1639223984> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/51492/geometries?source=229&attributeValue=149%2F28>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50542>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/51492>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:59:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Block 149/28"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-12.4 58.16667,-12.6 58.16667,-12.6 58,-12.4 58,-12.4 58.16667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-12.5 58.08333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2443 <http://www.w3.org/ns/prov#wasAttributedTo> <https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0>.
+<http://marineregions.org/mrgid/51492?t=1639223984> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2443.
+<http://marineregions.org/mrgid/50542> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "UK Quad 149"@en.
+<https://data-ogauthority.opendata.arcgis.com/datasets/59858c6a88ad4a919ad1e2726959f717_0> <http://www.w3.org/2000/01/rdf-schema#label> "Oil and Gas Authority (United Kingdom)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/51492?t=1639223984>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/uk+block+1.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/uk+block+1.ttl>.

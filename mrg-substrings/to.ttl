@@ -1,0 +1,173 @@
+<http://marineregions.org/mrgid/58022?t=1639221632> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Point>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/58022/geometries?source=232&attributeValue=6343>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4365>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/58022>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:20:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokongawha Point"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(173.021408 -41.0175)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://gazetteer.linz.govt.nz/>.
+<http://marineregions.org/mrgid/4365> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tasman Sea"@en.
+<https://gazetteer.linz.govt.nz/> <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand Gazetteer".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/58022?t=1639221632>.
+<http://marineregions.org/mrgid/22628?t=1639221853> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/22628/geometries?source=152&attributeValue=22628>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/19062>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/31382>, <http://marineregions.org/mrgid/31384>, <http://marineregions.org/mrgid/48024>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/22628>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:24:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Map source: IBGE"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tocantins"@pt;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-48.218611 -9.3175)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.geonames.org>.
+<http://marineregions.org/mrgid/19062> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Region>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Region"@en.
+<http://marineregions.org/mrgid/31382> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#River>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tocantins River"@en.
+<http://marineregions.org/mrgid/31384> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#River>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rio Paranã"@pt.
+<http://marineregions.org/mrgid/48024> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tocantins"@en.
+<http://www.geonames.org> <http://www.w3.org/2000/01/rdf-schema#label> "GeoNames".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/22628?t=1639221853>.
+<http://marineregions.org/mrgid/21998?t=1639222167> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/21998/geometries?source=38&attributeValue=21998>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/21782>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/21998>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:29:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonga Islands"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-172.34 -20.1936)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1750 <http://www.w3.org/ns/prov#wasAttributedTo> <https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas>.
+<http://marineregions.org/mrgid/21998?t=1639222167> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1750.
+<http://marineregions.org/mrgid/21782> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineProvince>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tropical Southwestern Pacific"@en.
+<https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas> <http://www.w3.org/2000/01/rdf-schema#label> "Spalding, M. D. Fox, H. E. Allen, G. R. Davidson, N. Ferdana, Z. A. Finlayson, M. Halpern, B. S. Jorge, M. A. Lombana, A. Lourie, S. A., (2007). Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas. Bioscience 2007, VOL 57; numb 7, pages 573-584. doi: 10.1641/B570707".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/21998?t=1639222167>.
+<http://marineregions.org/mrgid/29721?t=1639222442> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaSPAEUBirdsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/29721/geometries?source=90&attributeValue=SE0410041>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2401>, <http://marineregions.org/mrgid/5694>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/29721>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:34:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=SE0410041>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torhamn-Hästholmen"@sv;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(15.787945 56.075588)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/2401> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baltic Sea"@en.
+<http://marineregions.org/mrgid/5694> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Swedish Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/29721?t=1639222442>.
+<http://marineregions.org/mrgid/2516?t=1639222455> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Arrondissement>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/2914>, <http://marineregions.org/mrgid/2915>, <http://marineregions.org/mrgid/2916>, <http://marineregions.org/mrgid/2917>, <http://marineregions.org/mrgid/2918>, <http://marineregions.org/mrgid/2919>, <http://marineregions.org/mrgid/2920>, <http://marineregions.org/mrgid/2921>, <http://marineregions.org/mrgid/2922>, <http://marineregions.org/mrgid/2923>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/2516/geometries?source=183&attributeValue=57000>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2480>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/2516>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:34:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tournai"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(3.716063 50.77097,3.238818 50.77097,3.238818 50.4865,3.716063 50.4865,3.716063 50.77097)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(3.47744 50.62873)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1858 <http://www.w3.org/ns/prov#wasAttributedTo> <http://statbel.fgov.be/>.
+<http://marineregions.org/mrgid/2516?t=1639222455> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1858.
+<http://marineregions.org/mrgid/2914> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Antoing"@fr.
+<http://marineregions.org/mrgid/2915> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brunehaut"@fr.
+<http://marineregions.org/mrgid/2916> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Celles"@fr.
+<http://marineregions.org/mrgid/2917> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Estaimpuis"@fr.
+<http://marineregions.org/mrgid/2918> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze-en-Hainaut"@fr.
+<http://marineregions.org/mrgid/2919> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mont-de-l'Enclus"@fr.
+<http://marineregions.org/mrgid/2920> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pecq"@fr.
+<http://marineregions.org/mrgid/2921> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Péruwelz"@fr.
+<http://marineregions.org/mrgid/2922> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rumes"@fr.
+<http://marineregions.org/mrgid/2923> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tournai"@fr.
+<http://marineregions.org/mrgid/2480> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ProvinceAdministrative>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hainaut"@fr.
+<http://statbel.fgov.be/> <http://www.w3.org/2000/01/rdf-schema#label> "Nationaal Instituut voor de Statistiek (NIS) / National Statistical Service".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/2516?t=1639222455>.
+<http://marineregions.org/mrgid/58391?t=1639222719> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Rock>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/58391/geometries?source=234&attributeValue=6332>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4365>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/58391>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:38:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokamapuna Rock"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(174.70422 -38.3009,174.70288 -38.3009,174.70288 -38.30166,174.70422 -38.30166,174.70422 -38.3009)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(174.70358 -38.301253)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://gazetteer.linz.govt.nz/>.
+<http://marineregions.org/mrgid/4365> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tasman Sea"@en.
+<https://gazetteer.linz.govt.nz/> <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand Gazetteer".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/58391?t=1639222719>.
+<http://marineregions.org/mrgid/58086?t=1639222765> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bay>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/58086/geometries?source=232&attributeValue=6344>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1910>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/58086>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:39:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tolaga Bay"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(178.315933 -38.36877)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://gazetteer.linz.govt.nz/>.
+<http://marineregions.org/mrgid/1910> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Pacific Ocean"@en.
+<https://gazetteer.linz.govt.nz/> <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand Gazetteer".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/58086?t=1639222765>.
+<http://marineregions.org/mrgid/1360?t=1639223076> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1360/geometries?source=3&attributeValue=00AUGN>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/148>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1360>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:44:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tollington"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-0.110525 51.57378,-0.129172 51.57378,-0.129172 51.56098,-0.110525 51.56098,-0.110525 51.57378)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-0.1198485 51.56738)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/148> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Borough>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Islington"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1360?t=1639223076>.
+<http://marineregions.org/mrgid/57370?t=1639223087> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/57370/geometries?source=232&attributeValue=14874>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1910>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/57370>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:44:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Town Reef"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(176.9295 -39.477333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://gazetteer.linz.govt.nz/>.
+<http://marineregions.org/mrgid/1910> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Pacific Ocean"@en.
+<https://gazetteer.linz.govt.nz/> <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand Gazetteer".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/57370?t=1639223087>.
+<http://marineregions.org/mrgid/47845?t=1639223615> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level3>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/48477>, <http://marineregions.org/mrgid/48478>, <http://marineregions.org/mrgid/48479>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/47845/geometries?source=51&attributeValue=TOK>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/47498>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/47845>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:53:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:tdwg:wgsrpd:TOK>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokelau-Manihiki"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-157.9403076168 -8.5536136629402,-172.50033569314 -8.5536136629402,-172.50033569314 -11.551946640325,-157.9403076168 -11.551946640325,-157.9403076168 -8.5536136629402)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-164.65184274257 -9.8181442692187)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://github.com/tdwg/wgsrpd>.
+<http://marineregions.org/mrgid/48477> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Manihiki Is."@en.
+<http://marineregions.org/mrgid/48478> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Swains I."@en.
+<http://marineregions.org/mrgid/48479> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokelau"@en.
+<http://marineregions.org/mrgid/47498> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level2>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Southwestern Pacific"@en.
+_:n3-2294 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> "TDWG code";
+    <https://schema.org/value> "TOK".
+<urn:tdwg:wgsrpd:TOK> <https://schema.org/identifier> _:n3-2294;
+    <https://schema.org/url> <https://github.com/tdwg/wgsrpd>.
+<https://github.com/tdwg/wgsrpd> <http://www.w3.org/2000/01/rdf-schema#label> "TDWG - World Geographical Scheme for Recording Plant Distributions".
+<https://marineregions.org/feed.ttl> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/47845?t=1639223615>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/to.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed.ttl> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/to.ttl>.
