@@ -21,7 +21,7 @@ jobs:
           gh_pages_url: 'www.pieter.pm/mrg-substrings'
           datasource_strategy: 'ldes-client'
           # url you want to fetch
-          url: 'https://marineregions.org/feed.ttl'
+          url: 'https://marineregions.org/feed'
           # output directory name
           storage: 'mrg-substrings'
           fragmentation_strategy: 'substring'
