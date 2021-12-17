@@ -1,0 +1,623 @@
+<http://marineregions.org/mrgid/55295?t=1639224881> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55295/geometries?source=231&attributeValue=6307%2F7>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54804>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55295>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:14:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6307/7"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(7.33162 63.49965,6.99826 63.49965,6.99826 63.24964,7.33162 63.24964,7.33162 63.49965)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(7.16494 63.37465)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-341 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55295?t=1639224881> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-341.
+<http://marineregions.org/mrgid/54804> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6307"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55295?t=1639224881>.
+<http://marineregions.org/mrgid/26531?t=1639224942> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#GeneralSeaArea>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/26531/geometries?source=149&attributeValue=26531>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/26531>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:15:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Northwestern North Pacific, off Japan "@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(146 38)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/26531?t=1639224942>.
+<http://marineregions.org/mrgid/56373?t=1639224944> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56373/geometries?source=231&attributeValue=6503%2F10>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54818>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56373>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:15:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6503/10"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(3.33137 65.24967,2.998 65.24967,2.998 64.99966,3.33137 64.99966,3.33137 65.24967)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(3.16469 65.12467)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-364 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56373?t=1639224944> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-364.
+<http://marineregions.org/mrgid/54818> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6503"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56373?t=1639224944>.
+<http://marineregions.org/mrgid/56290?t=1639224950> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56290/geometries?source=231&attributeValue=6602%2F5>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54827>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56290>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:15:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6602/5"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(2.66456 66.74973,2.33119 66.74973,2.33119 66.49971,2.66456 66.49971,2.66456 66.74973)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(2.49788 66.62472)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-371 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56290?t=1639224950> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-371.
+<http://marineregions.org/mrgid/54827> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6602"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56290?t=1639224950>.
+<http://marineregions.org/mrgid/55019?t=1639224959> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55019/geometries?source=231&attributeValue=9%2F9>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54952>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55019>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:15:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 9/9"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(4.99851 57.49939,4.66516 57.49939,4.66516 57.24938,4.99851 57.24938,4.99851 57.49939)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.83183 57.37439)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-376 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55019?t=1639224959> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-376.
+<http://marineregions.org/mrgid/54952> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 9"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55019?t=1639224959>.
+<http://marineregions.org/mrgid/54979?t=1639225039> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/54979/geometries?source=231&attributeValue=4%2F1>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54787>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/54979>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:17:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 4/1"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(5.33187 56.99938,4.99852 56.99938,4.99852 56.74937,5.33187 56.74937,5.33187 56.99938)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(5.16519 56.87437)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-414 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/54979?t=1639225039> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-414.
+<http://marineregions.org/mrgid/54787> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 4"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/54979?t=1639225039>.
+<http://marineregions.org/mrgid/28203?t=1639225062> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SiteOfCommunityImportanceSCIEUHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/28203/geometries?source=90&attributeValue=IE0002012>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4283>, <http://marineregions.org/mrgid/5681>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/28203>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:17:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=IE0002012>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Inishowen Coast"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-7.325671 55.298479)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/4283> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Inner Seas off the West Coast of Scotland"@en.
+<http://marineregions.org/mrgid/5681> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Irish Exclusive economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/28203?t=1639225062>.
+<http://marineregions.org/mrgid/55639?t=1639225163> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55639/geometries?source=231&attributeValue=7128%2F11>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54877>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55639>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:19:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7128/11"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(28.66553 71.2502,28.33208 71.2502,28.33208 71.00019,28.66553 71.00019,28.66553 71.2502)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(28.50826 71.13944)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-453 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55639?t=1639225163> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-453.
+<http://marineregions.org/mrgid/54877> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7128"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55639?t=1639225163>.
+<http://marineregions.org/mrgid/55954?t=1639225207> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55954/geometries?source=231&attributeValue=7322%2F8>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54912>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55954>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:20:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7322/8"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(22.6649 73.50026,22.33152 73.50026,22.33152 73.25024,22.6649 73.25024,22.6649 73.50026)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(22.49821 73.37525)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-473 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55954?t=1639225207> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-473.
+<http://marineregions.org/mrgid/54912> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7322"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55954?t=1639225207>.
+<http://marineregions.org/mrgid/55504?t=1639225214> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55504/geometries?source=231&attributeValue=7117%2F8>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54866>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55504>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:20:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7117/8"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(17.6648 71.50012,17.33142 71.50012,17.33142 71.2501,17.6648 71.2501,17.6648 71.50012)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(17.49811 71.37511)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-477 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55504?t=1639225214> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-477.
+<http://marineregions.org/mrgid/54866> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7117"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55504?t=1639225214>.
+<http://marineregions.org/mrgid/54977?t=1639225252> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/54977/geometries?source=231&attributeValue=3%2F8>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54779>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/54977>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:20:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 3/8"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(4.6652 56.49935,4.33185 56.49935,4.33185 56.39743,4.6652 56.39743,4.6652 56.49935)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.45189 56.46518)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-487 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/54977?t=1639225252> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-487.
+<http://marineregions.org/mrgid/54779> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 3"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/54977?t=1639225252>.
+<http://marineregions.org/mrgid/8570?t=1639225252> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#LargeMarineEcosystem>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/8570/geometries?source=24&attributeValue=17>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/22539>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/8570>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:20:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lme.edc.uri.edu/index.php/lme-briefs/55-north-brazil-shelf-lme-17>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Brazil Shelf"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-40.5016 12.18279,-61.66 12.18279,-61.66 -3.30917,-40.5016 -3.30917,-40.5016 12.18279)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-51.26235 4.8261)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-488 <http://www.w3.org/ns/prov#wasAttributedTo> <https://www.lmehub.net/>.
+<http://marineregions.org/mrgid/8570?t=1639225252> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-488.
+<http://marineregions.org/mrgid/22539> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#GeneralRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Large Marine Ecosystems"@en.
+<https://www.lmehub.net/> <http://www.w3.org/2000/01/rdf-schema#label> "Large Marine Ecosystems of the World".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/8570?t=1639225252>.
+<http://marineregions.org/mrgid/18059?t=1639225261> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#GeneralSeaArea>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/18059/geometries?source=149&attributeValue=18059>, <http://marineregions.org/mrgid/18059/geometries?source=150&attributeValue=18059>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1904>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/18059>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:21:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Indian Ocean"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(72.5 9.5)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-490 <http://www.w3.org/2000/01/rdf-schema#label> "Aphia".
+<http://marineregions.org/mrgid/18059?t=1639225261> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-490.
+<http://marineregions.org/mrgid/1904> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indian Ocean"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/18059?t=1639225261>.
+<http://marineregions.org/mrgid/54858?t=1639225293> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/55469>, <http://marineregions.org/mrgid/55470>, <http://marineregions.org/mrgid/55471>, <http://marineregions.org/mrgid/55472>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/54858/geometries?source=230&attributeValue=7022>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50628>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/54858>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:21:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7022"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(22.99846 71.00014,21.9984 71.00014,21.9984 70.67857,22.99846 70.67857,22.99846 71.00014)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(22.41001 70.88562)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-500 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/54858?t=1639225293> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-500.
+<http://marineregions.org/mrgid/55469> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7022/1"@en.
+<http://marineregions.org/mrgid/55470> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7022/2"@en.
+<http://marineregions.org/mrgid/55471> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7022/3"@en.
+<http://marineregions.org/mrgid/55472> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7022/4"@en.
+<http://marineregions.org/mrgid/50628> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Mineral Rights Areas"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/54858?t=1639225293>.
+<http://marineregions.org/mrgid/55539?t=1639225331> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55539/geometries?source=231&attributeValue=7120%2F7>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54869>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55539>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:22:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7120/7"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(20.33162 71.50014,19.99824 71.50014,19.99824 71.25013,20.33162 71.25013,20.33162 71.50014)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(20.16493 71.37514)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-518 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55539?t=1639225331> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-518.
+<http://marineregions.org/mrgid/54869> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7120"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55539?t=1639225331>.
+<http://marineregions.org/mrgid/55315?t=1639225361> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55315/geometries?source=231&attributeValue=6407%2F5>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54813>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55315>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:22:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6407/5"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(7.66489 64.74971,7.33153 64.74971,7.33153 64.49969,7.66489 64.49969,7.66489 64.74971)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(7.49821 64.6247)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-529 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55315?t=1639225361> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-529.
+<http://marineregions.org/mrgid/54813> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6407"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55315?t=1639225361>.
+<http://marineregions.org/mrgid/56670?t=1639225378> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56670/geometries?source=231&attributeValue=7234%2F1>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54903>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56670>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:22:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7234/1"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(34.33237 73.00031,33.999 73.00031,33.999 72.7503,34.33237 72.7503,34.33237 73.00031)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(34.16569 72.87531)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-536 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56670?t=1639225378> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-536.
+<http://marineregions.org/mrgid/54903> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7234"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56670?t=1639225378>.
+<http://marineregions.org/mrgid/55010?t=1639225494> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55010/geometries?source=231&attributeValue=8%2F12>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54951>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55010>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:24:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 8/12"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(3.99849 57.24937,3.66514 57.24937,3.66514 56.99936,3.99849 56.99936,3.99849 57.24937)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(3.83182 57.12437)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-580 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55010?t=1639225494> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-580.
+<http://marineregions.org/mrgid/54951> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 8"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55010?t=1639225494>.
+<http://marineregions.org/mrgid/55879?t=1639225512> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55879/geometries?source=231&attributeValue=7316%2F2>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54906>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55879>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:25:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7316/2"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(16.66446 74.00023,16.33107 74.00023,16.33107 73.75021,16.66446 73.75021,16.66446 74.00023)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(16.49777 73.87522)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-590 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55879?t=1639225512> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-590.
+<http://marineregions.org/mrgid/54906> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7316"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55879?t=1639225512>.
+<http://marineregions.org/mrgid/5336?t=1639225575> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/5336/geometries?source=30&attributeValue=667>;
+    <http://marineregions.org/ns/ontology#isAdjacentTo> <http://marineregions.org/mrgid/5454>, <http://marineregions.org/mrgid/5455>, <http://marineregions.org/mrgid/5456>, <http://marineregions.org/mrgid/5457>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/5642>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/5336>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:26:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nordaustlandet"@no;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(27.2568 80.5072,17.7455 80.5072,17.7455 79.1872,27.2568 79.1872,27.2568 80.5072)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(22.50115 79.8472)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-617 <http://www.w3.org/2000/01/rdf-schema#label> "(2001). The Times comprehensive atlas of the world. 10th ed. Times Books: London. ISBN 0-7230-0792-6. 67, 220, 124 plates pp.".
+_:n3-616 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-617.
+<http://marineregions.org/mrgid/5336?t=1639225575> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-616.
+<http://marineregions.org/mrgid/5454> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Strait>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hinlopenstretet"@no.
+<http://marineregions.org/mrgid/5455> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Fjord>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wahlenbergfjorden"@no.
+<http://marineregions.org/mrgid/5456> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Fjord>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijpfjorden"@no.
+<http://marineregions.org/mrgid/5457> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Fjord>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Duvefjorden"@no.
+<http://marineregions.org/mrgid/5642> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Archipelago>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Svalbard"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/5336?t=1639225575>.
+<http://marineregions.org/mrgid/56542?t=1639225588> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56542/geometries?source=231&attributeValue=7116%2F8>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54865>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56542>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:26:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7116/8"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(16.66475 71.50011,16.33137 71.50011,16.33137 71.25009,16.66475 71.25009,16.66475 71.50011)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(16.49806 71.3751)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-626 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56542?t=1639225588> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-626.
+<http://marineregions.org/mrgid/54865> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7116"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56542?t=1639225588>.
+<http://marineregions.org/mrgid/55579?t=1639225632> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55579/geometries?source=231&attributeValue=7123%2F11>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54872>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55579>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:27:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7123/11"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(23.66516 71.25016,23.33179 71.25016,23.33179 71.00015,23.66516 71.00015,23.66516 71.25016)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(23.49422 71.12962)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-644 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55579?t=1639225632> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-644.
+<http://marineregions.org/mrgid/54872> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7123"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55579?t=1639225632>.
+<http://marineregions.org/mrgid/55220?t=1639225681> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55220/geometries?source=231&attributeValue=35%2F6>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54785>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55220>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:28:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 35/6"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(3.99828 61.74954,3.66492 61.74954,3.66492 61.49953,3.99828 61.49953,3.99828 61.74954)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(3.8316 61.62453)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-662 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55220?t=1639225681> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-662.
+<http://marineregions.org/mrgid/54785> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 35"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55220?t=1639225681>.
+<http://marineregions.org/mrgid/54940?t=1639225703> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/56133>, <http://marineregions.org/mrgid/56134>, <http://marineregions.org/mrgid/56135>, <http://marineregions.org/mrgid/56136>, <http://marineregions.org/mrgid/56137>, <http://marineregions.org/mrgid/56138>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/54940/geometries?source=230&attributeValue=7427>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/50628>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/54940>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:28:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7427"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(27.99852 74.50035,26.9984 74.50035,26.9984 74.00032,27.99852 74.00032,27.99852 74.50035)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(27.49846 74.25033)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-672 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/54940?t=1639225703> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-672.
+<http://marineregions.org/mrgid/56133> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7427/7"@en.
+<http://marineregions.org/mrgid/56134> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7427/8"@en.
+<http://marineregions.org/mrgid/56135> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7427/9"@en.
+<http://marineregions.org/mrgid/56136> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7427/10"@en.
+<http://marineregions.org/mrgid/56137> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7427/11"@en.
+<http://marineregions.org/mrgid/56138> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7427/12"@en.
+<http://marineregions.org/mrgid/50628> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Mineral Rights Areas"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/54940?t=1639225703>.
+<http://marineregions.org/mrgid/56156?t=1639225706> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56156/geometries?source=231&attributeValue=7430%2F12>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54943>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56156>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:28:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7430/12"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(30.99873 74.25036,30.66535 74.25036,30.66535 74.00034,30.99873 74.00034,30.99873 74.25036)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(30.83204 74.12535)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-673 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56156?t=1639225706> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-673.
+<http://marineregions.org/mrgid/54943> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7430"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56156?t=1639225706>.
+<http://marineregions.org/mrgid/55866?t=1639225739> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55866/geometries?source=231&attributeValue=7231%2F8>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54900>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55866>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:28:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7231/8"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(31.66556 72.50028,31.33219 72.50028,31.33219 72.25026,31.66556 72.25026,31.66556 72.50028)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(31.49887 72.37527)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-685 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55866?t=1639225739> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-685.
+<http://marineregions.org/mrgid/54900> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7231"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55866?t=1639225739>.
+<http://marineregions.org/mrgid/55319?t=1639225772> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55319/geometries?source=231&attributeValue=6407%2F9>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54813>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55319>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:29:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6407/9"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(7.99825 64.4997,7.66489 64.4997,7.66489 64.24969,7.99825 64.24969,7.99825 64.4997)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(7.83157 64.3747)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-694 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55319?t=1639225772> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-694.
+<http://marineregions.org/mrgid/54813> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6407"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55319?t=1639225772>.
+<http://marineregions.org/mrgid/55014?t=1639225779> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55014/geometries?source=231&attributeValue=9%2F4>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54952>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55014>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:29:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 9/4"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(4.33181 57.74939,3.99846 57.74939,3.99846 57.49938,4.33181 57.49938,4.33181 57.74939)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.16514 57.62439)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-697 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55014?t=1639225779> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-697.
+<http://marineregions.org/mrgid/54952> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 9"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55014?t=1639225779>.
+<http://marineregions.org/mrgid/19060?t=1639225783> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Region>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/9046>, <http://marineregions.org/mrgid/17383>, <http://marineregions.org/mrgid/19059>, <http://marineregions.org/mrgid/19063>, <http://marineregions.org/mrgid/19065>, <http://marineregions.org/mrgid/19067>, <http://marineregions.org/mrgid/25807>, <http://marineregions.org/mrgid/25808>, <http://marineregions.org/mrgid/48626>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/19060/geometries?source=153&attributeValue=19060>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2143>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/19060>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:29:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Grande Região Nordeste"@pt, "Região Nordeste"@pt;
+    <http://www.w3.org/2004/02/skos/core#note> "Map source: IBGE"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Northeast region"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-42 -6)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-699 <http://www.w3.org/2000/01/rdf-schema#label> "IMIS".
+<http://marineregions.org/mrgid/19060?t=1639225783> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-699.
+<http://marineregions.org/mrgid/9046> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pernambuco"@pt.
+<http://marineregions.org/mrgid/17383> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bahia"@pt.
+<http://marineregions.org/mrgid/19059> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alagoas"@pt.
+<http://marineregions.org/mrgid/19063> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceará"@en.
+<http://marineregions.org/mrgid/19065> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maranhão"@pt.
+<http://marineregions.org/mrgid/19067> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Paraíba"@es.
+<http://marineregions.org/mrgid/25807> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rio Grande do Norte"@pt.
+<http://marineregions.org/mrgid/25808> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Piauí"@pt.
+<http://marineregions.org/mrgid/48626> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sergipe"@en.
+<http://marineregions.org/mrgid/2143> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Nation>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazil"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/19060?t=1639225783>.
+<http://marineregions.org/mrgid/56242?t=1639225819> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56242/geometries?source=231&attributeValue=6706%2F7>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54840>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56242>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:30:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6706/7"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(6.3313 67.49981,5.99793 67.49981,5.99793 67.24979,6.3313 67.24979,6.3313 67.49981)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(6.16462 67.3748)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-711 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56242?t=1639225819> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-711.
+<http://marineregions.org/mrgid/54840> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6706"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56242?t=1639225819>.
+<http://marineregions.org/mrgid/56642?t=1639225846> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56642/geometries?source=231&attributeValue=7133%2F7>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54882>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56642>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:30:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7133/7"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(33.33238 71.50024,32.99902 71.50024,32.99902 71.25022,33.33238 71.25022,33.33238 71.50024)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(33.16433 71.37626)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-722 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56642?t=1639225846> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-722.
+<http://marineregions.org/mrgid/54882> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7133"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56642?t=1639225846>.
+<http://marineregions.org/mrgid/54970?t=1639225884> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/54970/geometries?source=231&attributeValue=3%2F1>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54779>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/54970>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:31:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 3/1"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(4.33184 56.99937,3.99849 56.99937,3.99849 56.74935,4.33184 56.74935,4.33184 56.99937)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.16517 56.87436)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-738 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/54970?t=1639225884> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-738.
+<http://marineregions.org/mrgid/54779> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 3"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/54970?t=1639225884>.
+<http://marineregions.org/mrgid/55721?t=1639225899> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55721/geometries?source=231&attributeValue=7219%2F7>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54888>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55721>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:31:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7219/7"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(19.33146 72.50018,18.99808 72.50018,18.99808 72.25017,19.33146 72.25017,19.33146 72.50018)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(19.16477 72.37517)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-741 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55721?t=1639225899> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-741.
+<http://marineregions.org/mrgid/54888> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7219"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55721?t=1639225899>.
+<http://marineregions.org/mrgid/55258?t=1639225909> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55258/geometries?source=231&attributeValue=6204%2F12>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54794>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55258>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:31:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6204/12"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(4.99827 62.24957,4.66492 62.24957,4.66492 61.99956,4.99827 61.99956,4.99827 62.24957)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.81773 62.13366)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-746 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55258?t=1639225909> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-746.
+<http://marineregions.org/mrgid/54794> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6204"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55258?t=1639225909>.
+<http://marineregions.org/mrgid/55608?t=1639225930> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55608/geometries?source=231&attributeValue=7126%2F4>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54875>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55608>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:32:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 7126/4"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(26.33194 71.75021,25.99857 71.75021,25.99857 71.50019,26.33194 71.50019,26.33194 71.75021)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(26.16526 71.6252)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-757 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55608?t=1639225930> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-757.
+<http://marineregions.org/mrgid/54875> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 7126"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55608?t=1639225930>.
+<http://marineregions.org/mrgid/56591?t=1639225934> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56591/geometries?source=231&attributeValue=6709%2F9>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54843>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56591>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:32:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6709/9"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(9.99811 67.49985,9.66475 67.49985,9.66475 67.24984,9.99811 67.24984,9.99811 67.49985)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(9.83143 67.37485)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-760 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56591?t=1639225934> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-760.
+<http://marineregions.org/mrgid/54843> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6709"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56591?t=1639225934>.
+<http://marineregions.org/mrgid/56511?t=1639225961> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56511/geometries?source=231&attributeValue=6304%2F5>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54801>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56511>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:32:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6304/5"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(4.66485 63.74963,4.33149 63.74963,4.33149 63.49962,4.66485 63.49962,4.66485 63.74963)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(4.49817 63.62462)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-771 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56511?t=1639225961> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-771.
+<http://marineregions.org/mrgid/54801> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6304"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56511?t=1639225961>.
+<http://marineregions.org/mrgid/55069?t=1639225973> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/55069/geometries?source=231&attributeValue=16%2F6>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54767>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/55069>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:32:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 16/6"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(2.9984 58.74941,2.66505 58.74941,2.66505 58.4994,2.9984 58.4994,2.9984 58.74941)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(2.83172 58.62441)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-778 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/55069?t=1639225973> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-778.
+<http://marineregions.org/mrgid/54767> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 16"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/55069?t=1639225973>.
+<http://marineregions.org/mrgid/56611?t=1639225976> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56611/geometries?source=231&attributeValue=6501%2F11>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54816>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56611>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:32:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6501/11"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(1.66464 65.24965,1.33128 65.24965,1.33128 64.99964,1.66464 64.99964,1.66464 65.24965)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(1.49796 65.12465)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-780 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56611?t=1639225976> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-780.
+<http://marineregions.org/mrgid/54816> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6501"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56611?t=1639225976>.
+<http://marineregions.org/mrgid/56501?t=1639225982> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56501/geometries?source=231&attributeValue=6303%2F7>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/54800>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56501>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:33:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Block 6303/7"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(3.33149 63.4996,2.99813 63.4996,2.99813 63.24959,3.33149 63.24959,3.33149 63.4996)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(3.16481 63.3746)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-784 <http://www.w3.org/ns/prov#wasAttributedTo> <https://factmaps.npd.no/factmaps/3_0/>.
+<http://marineregions.org/mrgid/56501?t=1639225982> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-784.
+<http://marineregions.org/mrgid/54800> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MineralRightsAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Quad 6303"@en.
+<https://factmaps.npd.no/factmaps/3_0/> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegian Petroleum Directorate".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56501?t=1639225982>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/no.ttl> <https://w3id.org/tree#relation> _:df_1_80.
+_:df_1_80 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/mrg-substrings/mrg-substrings/nor.ttl>;
+    <https://w3id.org/tree#path> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <https://w3id.org/tree#value> "nor".
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/no.ttl> <https://w3id.org/tree#relation> _:df_1_81.
+_:df_1_81 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/mrg-substrings/mrg-substrings/noe.ttl>;
+    <https://w3id.org/tree#path> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <https://w3id.org/tree#value> "noe".
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/no.ttl> <https://w3id.org/tree#relation> _:df_1_82.
+_:df_1_82 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://www.pieter.pm/mrg-substrings/mrg-substrings/not.ttl>;
+    <https://w3id.org/tree#path> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <https://w3id.org/tree#value> "not".
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/no.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/no.ttl>.

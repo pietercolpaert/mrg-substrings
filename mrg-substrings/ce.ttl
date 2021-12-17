@@ -1,0 +1,120 @@
+<http://marineregions.org/mrgid/30287?t=1639220825> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Drift>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/30287/geometries?source=95&attributeValue=30287>;
+    <http://marineregions.org/ns/ontology#isInfluencedBy> <http://marineregions.org/mrgid/30235>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/21897>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/30287>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:07:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Maximum age: Quaternary"@en, "Coordinate information: Coordinates redefined in 2014. \nThese coordinates represent the centroid and the bounding box of the polygon from the shapefile."@en, "Drift type: Elongated mounded and separated Drift"@en, "Mean contourite type: Muddy"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceuta Drift"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-4.2411782 35.9206805,-5.2492061 35.9206805,-5.2492061 35.2238336,-4.2411782 35.2238336,-4.2411782 35.9206805)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-4.8194273669875 35.521648833375)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1212 <http://www.w3.org/2000/01/rdf-schema#label> "Ercilla, G., et al. (2002). The Ceuta Drift, Alboran Sea, southwestern Mediterranean. Deep-Water Contourite Systems: Modern Drifts and Ancient Series, Seismic and Sedimentary Characteristics. D. A. V. Stow, C. J. Pudsey, J. A. Howe, J.-C. Faugères and A. R. Viana. London, Geological Society. 22: 155-170.".
+_:n3-1211 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1212.
+<http://marineregions.org/mrgid/30287?t=1639220825> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1211.
+<http://marineregions.org/mrgid/30235> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Levantine Intermediate Water"@en.
+<http://marineregions.org/mrgid/21897> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alboran Sea"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/30287?t=1639220825>.
+<http://marineregions.org/mrgid/14864?t=1639220940> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Possession>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/14863>, <http://marineregions.org/mrgid/26608>, <http://marineregions.org/mrgid/49002>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/14864/geometries?source=156&attributeValue=18>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2185>, <http://marineregions.org/mrgid/1923>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/14864>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:09:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceuta"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-5.3075 35.890277777)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+<http://marineregions.org/mrgid/14863> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Point>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Punta Almina"@es.
+<http://marineregions.org/mrgid/26608> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Lighthouse>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Punta Almina"@en.
+<http://marineregions.org/mrgid/49002> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#OverlappingClaim>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overlapping claim Ceuta: Spain / Morocco"@en.
+<http://marineregions.org/mrgid/2185> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Nation>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spain"@en.
+<http://marineregions.org/mrgid/1923> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Continent>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Africa"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/14864?t=1639220940>.
+<http://marineregions.org/mrgid/4359?t=1639221321> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/14749>, <http://marineregions.org/mrgid/25684>, <http://marineregions.org/mrgid/25685>, <http://marineregions.org/mrgid/25686>, <http://marineregions.org/mrgid/34370>, <http://marineregions.org/mrgid/34403>, <http://marineregions.org/mrgid/34895>, <http://marineregions.org/mrgid/34931>, <http://marineregions.org/mrgid/35021>, <http://marineregions.org/mrgid/35158>, <http://marineregions.org/mrgid/35249>, <http://marineregions.org/mrgid/35415>, <http://marineregions.org/mrgid/35423>, <http://marineregions.org/mrgid/35594>, <http://marineregions.org/mrgid/35769>, <http://marineregions.org/mrgid/35964>, <http://marineregions.org/mrgid/36060>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/4359/geometries?source=25&attributeValue=48b>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4331>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/24139>;
+    <http://marineregions.org/ns/ontology#partlyContains> <http://marineregions.org/mrgid/33662>, <http://marineregions.org/mrgid/33676>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/4359>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:15:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Celebes Sea"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(125.61386502511 7.85156249981,116.71834194632 7.85156249981,116.71834194632 0.80112254577,125.61386502511 0.80112254577,125.61386502511 7.85156249981)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(121.93858111739 3.71432642228)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/hydra/core#next> <http://marineregions.org/mrgid/4359?page=2&t=1639221321>.
+_:n3-1381 <http://www.w3.org/2000/01/rdf-schema#label> "(1953). Limits of oceans and seas. 3rd edition. IHO Special Publication, 23. International Hydrographic Organization (IHO): Monaco. 38 pp.".
+_:n3-1380 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1381.
+<http://marineregions.org/mrgid/4359?t=1639221321> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1380.
+<http://marineregions.org/mrgid/14749> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mindanao"@en.
+<http://marineregions.org/mrgid/25684> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippines part of the Celebes Sea"@en.
+<http://marineregions.org/mrgid/25685> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Malaysian part of the Celebes Sea"@en.
+<http://marineregions.org/mrgid/25686> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indonesian part of the Celebes Sea"@en.
+<http://marineregions.org/mrgid/34370> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ridge>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sibutu-Basilan Ridge"@en.
+<http://marineregions.org/mrgid/34403> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ridge>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sangihe Ridge"@en.
+<http://marineregions.org/mrgid/34895> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tumindao Reef"@en.
+<http://marineregions.org/mrgid/34931> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijitiji Reef"@en.
+<http://marineregions.org/mrgid/35021> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Reef"@en.
+<http://marineregions.org/mrgid/35158> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Riddells Reef"@en.
+<http://marineregions.org/mrgid/35249> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Payne Rock"@en.
+<http://marineregions.org/mrgid/35415> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Middle Reef"@en.
+<http://marineregions.org/mrgid/35423> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meridian Reef"@en.
+<http://marineregions.org/mrgid/35594> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "James Patch"@en.
+<http://marineregions.org/mrgid/35769> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Frances Reef"@en.
+<http://marineregions.org/mrgid/35964> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chambers Knoll"@en.
+<http://marineregions.org/mrgid/36060> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Blake Reef"@en.
+<http://marineregions.org/mrgid/4331> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#GeneralSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South China and Eastern Archipelagic Seas"@en.
+<http://marineregions.org/mrgid/24139> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#SeaVoXSeaArea-Sub-region>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Celebes Sea"@en.
+<http://marineregions.org/mrgid/33662> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#LowerBathyalProvinces>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Pacific Lower Bathyal Province"@en.
+<http://marineregions.org/mrgid/33676> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#AbyssalProvinces>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Pacific Basins Abyssal Province"@en.
+<http://marineregions.org/mrgid/4359> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/36120>, <http://marineregions.org/mrgid/36175>, <http://marineregions.org/mrgid/59188>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Celebes Sea"@en.
+<http://marineregions.org/mrgid/36120> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bajapa Reef"@en.
+<http://marineregions.org/mrgid/36175> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alice Reef"@en.
+<http://marineregions.org/mrgid/59188> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HABMonitoringGrid>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PHL-18"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/4359?t=1639221321>.
+<http://marineregions.org/mrgid/21494?t=1639223951> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#LonghurstProvince>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/21494/geometries?source=44&attributeValue=CAMR>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/22538>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/21494>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:59:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "CAMR"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Central American Coastal Province"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-96.7577590109 14.7031774095)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2375 <http://www.w3.org/2000/01/rdf-schema#label> "Ecological geography of the Sea (Longhurst, 1998)".
+_:n3-2374 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-2375.
+<http://marineregions.org/mrgid/21494?t=1639223951> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2374.
+<http://marineregions.org/mrgid/22538> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#LonghurstProvince>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Longhurst Provinces"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/21494?t=1639223951>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/ce.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/ce.ttl>.

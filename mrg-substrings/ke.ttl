@@ -1,0 +1,65 @@
+<http://marineregions.org/mrgid/9004?t=1639222157> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/9004/geometries?source=19&attributeValue=40239107>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/8965>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/9004>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:29:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Key West"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-81.784031 24.559166)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1690 <http://www.w3.org/2000/01/rdf-schema#label> "Les Watling".
+_:n3-1689 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1690.
+<http://marineregions.org/mrgid/9004?t=1639222157> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1689.
+<http://marineregions.org/mrgid/8965> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Archipelago>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Florida Keys"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/9004?t=1639222157>.
+<http://marineregions.org/mrgid/3889?t=1639222566> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/3889/geometries?source=30&attributeValue=722>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2217>, <http://marineregions.org/mrgid/4280>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/3889>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:36:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kemmuna"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(14.3517 36.0214,14.3232 36.0214,14.3232 36.005,14.3517 36.005,14.3517 36.0214)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(14.33745 36.0132)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1845 <http://www.w3.org/2000/01/rdf-schema#label> "(2001). The Times comprehensive atlas of the world. 10th ed. Times Books: London. ISBN 0-7230-0792-6. 67, 220, 124 plates pp.".
+_:n3-1844 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1845.
+<http://marineregions.org/mrgid/3889?t=1639222566> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1844.
+<http://marineregions.org/mrgid/2217> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Nation>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Malta"@en.
+<http://marineregions.org/mrgid/4280> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mediterranean Sea - Eastern Basin"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/3889?t=1639222566>.
+<http://marineregions.org/mrgid/8793?t=1639222789> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/8793/geometries?source=30&attributeValue=488>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3652>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/8793>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:39:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Tzia"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kea"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(24.4101 37.6884,24.2648 37.6884,24.2648 37.5222,24.4101 37.5222,24.4101 37.6884)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(24.33745 37.6053)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1932 <http://www.w3.org/2000/01/rdf-schema#label> "(2001). The Times comprehensive atlas of the world. 10th ed. Times Books: London. ISBN 0-7230-0792-6. 67, 220, 124 plates pp.".
+_:n3-1931 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1932.
+<http://marineregions.org/mrgid/8793?t=1639222789> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1931.
+<http://marineregions.org/mrgid/3652> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Archipelago>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyclades"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/8793?t=1639222789>.
+<http://marineregions.org/mrgid/17925?t=1639223208> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Archipelago>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/32903>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/17925/geometries?source=234&attributeValue=13774>, <http://marineregions.org/mrgid/17925/geometries?source=234&attributeValue=13779>, <http://marineregions.org/mrgid/17925/geometries?source=234&attributeValue=49631>, <http://marineregions.org/mrgid/17925/geometries?source=234&attributeValue=57225>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1903>, <http://marineregions.org/mrgid/2227>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/17925>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:46:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kermadec Islands"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-178.05 -29.16,-177.79 -29.16,-177.79 -29.36,-178.05 -29.36,-178.05 -29.16)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-177.9167 -29.2667)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2085 <http://www.w3.org/ns/prov#wasAttributedTo> <http://geonames.usgs.gov>.
+<http://marineregions.org/mrgid/17925?t=1639223208> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2085.
+<http://marineregions.org/mrgid/32903> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Raoul Island"@en.
+<http://marineregions.org/mrgid/1903> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ocean>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pacific Ocean"@en.
+<http://marineregions.org/mrgid/2227> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Nation>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "New Zealand"@en.
+<http://geonames.usgs.gov> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Board on Geographic Names".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/17925?t=1639223208>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/ke.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/ke.ttl>.

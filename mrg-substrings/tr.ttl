@@ -1,0 +1,60 @@
+<http://marineregions.org/mrgid/47838?t=1639223488> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level3>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/48464>, <http://marineregions.org/mrgid/48465>, <http://marineregions.org/mrgid/48466>, <http://marineregions.org/mrgid/48467>, <http://marineregions.org/mrgid/48468>, <http://marineregions.org/mrgid/48469>, <http://marineregions.org/mrgid/48470>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/47838/geometries?source=51&attributeValue=TCS>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/47486>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/47838>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:51:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:tdwg:wgsrpd:TCS>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Transcaucasus"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(50.374992370302 43.584716797242,40.002967834898 43.584716797242,40.002967834898 38.389152526568,50.374992370302 38.389152526568,50.374992370302 43.584716797242)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(45.636832045792 41.016633974499)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://github.com/tdwg/wgsrpd>.
+<http://marineregions.org/mrgid/48464> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Abkhaziya"@en.
+<http://marineregions.org/mrgid/48465> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Adzhariya"@en.
+<http://marineregions.org/mrgid/48466> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Armenia"@en.
+<http://marineregions.org/mrgid/48467> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Azerbaijan"@en.
+<http://marineregions.org/mrgid/48468> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gruziya"@en.
+<http://marineregions.org/mrgid/48469> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nakhichevan"@en.
+<http://marineregions.org/mrgid/48470> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nagorno Karabakh"@en.
+<http://marineregions.org/mrgid/47486> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level2>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Caucasus"@en.
+_:n3-2207 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> "TDWG code";
+    <https://schema.org/value> "TCS".
+<urn:tdwg:wgsrpd:TCS> <https://schema.org/identifier> _:n3-2207;
+    <https://schema.org/url> <https://github.com/tdwg/wgsrpd>.
+<https://github.com/tdwg/wgsrpd> <http://www.w3.org/2000/01/rdf-schema#label> "TDWG - World Geographical Scheme for Recording Plant Distributions".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/47838?t=1639223488>.
+<http://marineregions.org/mrgid/21766?t=1639223692> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineProvince>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/21989>, <http://marineregions.org/mrgid/21990>, <http://marineregions.org/mrgid/21991>, <http://marineregions.org/mrgid/21992>, <http://marineregions.org/mrgid/21993>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/21766/geometries?source=56&attributeValue=21766>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/21726>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/21766>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:54:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tropical Southwestern Atlantic"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-35.4516 -11.3442)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2262 <http://www.w3.org/ns/prov#wasAttributedTo> <https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas>.
+<http://marineregions.org/mrgid/21766?t=1639223692> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2262.
+<http://marineregions.org/mrgid/21989> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trindade and Martin Vaz Islands"@en.
+<http://marineregions.org/mrgid/21990> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Brazil"@en.
+<http://marineregions.org/mrgid/21991> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fernando de Noronha and Atoll das Rocas"@en.
+<http://marineregions.org/mrgid/21992> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Northeastern Brazil"@en.
+<http://marineregions.org/mrgid/21993> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sao Pedro and Sao Paulo Islands"@en.
+<http://marineregions.org/mrgid/21726> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Realm>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tropical Atlantic"@en.
+<https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas> <http://www.w3.org/2000/01/rdf-schema#label> "Spalding, M. D. Fox, H. E. Allen, G. R. Davidson, N. Ferdana, Z. A. Finlayson, M. Halpern, B. S. Jorge, M. A. Lombana, A. Lourie, S. A., (2007). Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas. Bioscience 2007, VOL 57; numb 7, pages 573-584. doi: 10.1641/B570707".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/21766?t=1639223692>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/tr.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/tr.ttl>.

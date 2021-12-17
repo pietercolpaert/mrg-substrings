@@ -1,0 +1,97 @@
+<http://marineregions.org/mrgid/1029?t=1639221621> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1029/geometries?source=3&attributeValue=PO12>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/195>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1029>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:20:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirwignes"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(1.80437 50.71214,1.73754 50.71214,1.73754 50.65792,1.80437 50.65792,1.80437 50.71214)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(1.770955 50.68503)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/195> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Canton>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Desvres"@fr.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1029?t=1639221621>.
+<http://marineregions.org/mrgid/1200?t=1639221783> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1200/geometries?source=3&attributeValue=PX28>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/162>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1200>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:23:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wismes"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(2.11334 50.68837,2.04918 50.68837,2.04918 50.64047,2.11334 50.64047,2.11334 50.68837)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(2.08126 50.66442)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/162> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Canton>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lumbres"@fr.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1200?t=1639221783>.
+<http://marineregions.org/mrgid/47875?t=1639222576> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level3>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/48502>, <http://marineregions.org/mrgid/48503>, <http://marineregions.org/mrgid/48504>, <http://marineregions.org/mrgid/48505>, <http://marineregions.org/mrgid/48506>, <http://marineregions.org/mrgid/48507>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/47875/geometries?source=51&attributeValue=WIN>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/47513>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/47875>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:36:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:tdwg:wgsrpd:WIN>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Windward Is."@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-59.426948547437 15.631942749458,-61.789726256961 15.631942749458,-61.789726256961 11.996386528016,-59.426948547437 11.996386528016,-59.426948547437 15.631942749458)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-60.994908059532 14.091348534946)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://github.com/tdwg/wgsrpd>.
+<http://marineregions.org/mrgid/48502> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Barbados"@en.
+<http://marineregions.org/mrgid/48503> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dominica"@en.
+<http://marineregions.org/mrgid/48504> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grenada"@en.
+<http://marineregions.org/mrgid/48505> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Martinique"@en.
+<http://marineregions.org/mrgid/48506> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "St.Lucia"@en.
+<http://marineregions.org/mrgid/48507> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "St.Vincent"@en.
+<http://marineregions.org/mrgid/47513> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level2>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Caribbean"@en.
+_:n3-1856 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> "TDWG code";
+    <https://schema.org/value> "WIN".
+<urn:tdwg:wgsrpd:WIN> <https://schema.org/identifier> _:n3-1856;
+    <https://schema.org/url> <https://github.com/tdwg/wgsrpd>.
+<https://github.com/tdwg/wgsrpd> <http://www.w3.org/2000/01/rdf-schema#label> "TDWG - World Geographical Scheme for Recording Plant Distributions".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/47875?t=1639222576>.
+<http://marineregions.org/mrgid/552?t=1639222657> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/552/geometries?source=3&attributeValue=22UBGG>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/118>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/552>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:37:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wickford Park"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(0.566046 51.61216,0.513909 51.61216,0.513909 51.58792,0.566046 51.58792,0.566046 51.61216)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(0.5399775 51.60004)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/118> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#District>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Basildon"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/552?t=1639222657>.
+<http://marineregions.org/mrgid/24519?t=1639223075> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HistoricalFishingAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/24519/geometries?source=73&attributeValue=27>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/24493>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/24519>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:44:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Witte Zee"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(39.080458 66.198291)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/EN/Figures_Policy/Belgian_Sea_Fisheries>.
+<http://marineregions.org/mrgid/24493> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HistoricalFishingAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "(Historical) fishing areas of Belgian sea fisheries"@en.
+<http://www.vliz.be/EN/Figures_Policy/Belgian_Sea_Fisheries> <http://www.w3.org/2000/01/rdf-schema#label> "Belgian Sea Fisheries".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/24519?t=1639223075>.
+<http://marineregions.org/mrgid/24520?t=1639223880> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HistoricalFishingAreas>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/24520/geometries?source=73&attributeValue=28>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/24493>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/24520>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:58:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Witte Zee - Bereneiland"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(38.300166 66.726004)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/EN/Figures_Policy/Belgian_Sea_Fisheries>.
+<http://marineregions.org/mrgid/24493> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HistoricalFishingAreas>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "(Historical) fishing areas of Belgian sea fisheries"@en.
+<http://www.vliz.be/EN/Figures_Policy/Belgian_Sea_Fisheries> <http://www.w3.org/2000/01/rdf-schema#label> "Belgian Sea Fisheries".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/24520?t=1639223880>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/wi.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/wi.ttl>.

@@ -1,0 +1,23 @@
+<http://marineregions.org/mrgid/3765?t=1639223929> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#AutonomousRegion>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/23279>, <http://marineregions.org/mrgid/23280>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/3765/geometries?source=156&attributeValue=11>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2185>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/5634>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/3765>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:58:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Extremadura"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-4.6475 40.486,-7.5395 40.486,-7.5395 37.9403,-4.6475 37.9403,-4.6475 40.486)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-6.0935 39.21315)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.fao.org/3/CA2741EN/ca2741en.pdf>.
+<http://marineregions.org/mrgid/23279> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ProvinceAdministrative>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Badajoz"@es.
+<http://marineregions.org/mrgid/23280> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ProvinceAdministrative>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cáceres"@es.
+<http://marineregions.org/mrgid/2185> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Nation>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spain"@en.
+<http://marineregions.org/mrgid/5634> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#River>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guadarranque"@es.
+<http://www.fao.org/3/CA2741EN/ca2741en.pdf> <http://www.w3.org/2000/01/rdf-schema#label> "ASFA thesaurus".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/3765?t=1639223929>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/ex.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/ex.ttl>.

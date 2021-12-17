@@ -1,0 +1,92 @@
+<http://marineregions.org/mrgid/28546?t=1639220681> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaSPAEUBirdsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/28546/geometries?source=90&attributeValue=UK9020285>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2357>, <http://marineregions.org/mrgid/5696>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/28546>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:04:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=UK9020285>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Ynys Seiriol "@we;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Puffin Island"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-4.027449 53.318272)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/2357> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Irish Sea and St. George's Channel"@en.
+<http://marineregions.org/mrgid/5696> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "United Kingdom Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/28546?t=1639220681>.
+<http://marineregions.org/mrgid/25024?t=1639221587> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Knolls>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/26941>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/25024/geometries?source=111&attributeValue=5903>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/25024>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:19:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:12358081>;
+    <http://www.w3.org/2004/02/skos/core#note> ": Previous coordinates 2011: minLat: 16.85, minLong: -125.55, maxLat: 16.94, maxLong: -125.65"@en, "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-23. Proposer: Korea Committee on Marine Geographical Names (KCMGN). Year of proposal: 2010."@en, "GEBCO: discoverer and year of discovery: Discoverer: Korean research vessel \"Onnuri\". Year of discovery: 1996. History: The feature has a shape similar to that of a \"beetle\", which is called \"Pungdengi\" in the Korean language."@en, "Additional information: Dome shape and steepness of 10°. Minimum depth (m): 3705. Maximum depth (m): 4300. Total relief (m): 595. Dimension: 10 km x 10 km."@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pungdengi Knoll"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-125.5983333 16.89333333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/26941> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Knolls>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Top of the Pungdengi Knoll"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+_:n3-1468 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "12358081".
+<urn:acuf:ufi:12358081> <https://schema.org/identifier> _:n3-1468;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D12358081>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/25024?t=1639221587>.
+<http://marineregions.org/mrgid/27046?t=1639221695> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SiteOfCommunityImportanceSCIEUHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/27046/geometries?source=90&attributeValue=ITA080004>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4280>, <http://marineregions.org/mrgid/5682>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/27046>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:21:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=ITA080004>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Punta Braccetto, Contrada Cammarana"@it;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(14.457893 36.844695)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/4280> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mediterranean Sea - Eastern Basin"@en.
+<http://marineregions.org/mrgid/5682> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Italian Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/27046?t=1639221695>.
+<http://marineregions.org/mrgid/29457?t=1639221835> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SiteOfCommunityImportanceSCIEUHabitatsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/29457/geometries?source=90&attributeValue=ITB040028>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4279>, <http://marineregions.org/mrgid/5682>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/29457>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:23:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=ITB040028>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Punta S'Aliga"@it;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(8.419199 39.163222)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/4279> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mediterranean Sea - Western Basin"@en.
+<http://marineregions.org/mrgid/5682> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Italian Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/29457?t=1639221835>.
+<http://marineregions.org/mrgid/48205?t=1639223212> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/48205/geometries?source=50&attributeValue=IND-PU>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/47657>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/18745>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/48205>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:46:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:tdwg:wgsrpd:IND-PU>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Punjab"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(76.921997070312 32.525440216065,73.84204864502 32.525440216065,73.84204864502 29.553560256958,76.921997070312 29.553560256958,76.921997070312 32.525440216065)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(75.41464972922 30.844377003425)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://github.com/tdwg/wgsrpd>.
+<http://marineregions.org/mrgid/47657> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level3>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "India"@en.
+<http://marineregions.org/mrgid/18745> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#State>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Punjab"@en.
+_:n3-2089 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> "TDWG code";
+    <https://schema.org/value> "IND-PU".
+<urn:tdwg:wgsrpd:IND-PU> <https://schema.org/identifier> _:n3-2089;
+    <https://schema.org/url> <https://github.com/tdwg/wgsrpd>.
+<https://github.com/tdwg/wgsrpd> <http://www.w3.org/2000/01/rdf-schema#label> "TDWG - World Geographical Scheme for Recording Plant Distributions".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/48205?t=1639223212>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/pu.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/pu.ttl>.

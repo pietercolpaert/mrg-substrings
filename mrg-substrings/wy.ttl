@@ -1,0 +1,17 @@
+<http://marineregions.org/mrgid/27184?t=1639222960> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Natura2000SpecialProtectionAreaSPAEUBirdsDirective>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/27184/geometries?source=90&attributeValue=PLB320010>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2401>, <http://marineregions.org/mrgid/5687>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/27184>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:42:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://natura2000.eea.europa.eu/natura2000/SDF.aspx?site=PLB320010>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wybrzeze Trzebiatowskie"@pl;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(15.202177 54.075078)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.eea.europa.eu/data-and-maps/data/natura-2>.
+<http://marineregions.org/mrgid/2401> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baltic Sea"@en.
+<http://marineregions.org/mrgid/5687> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Polish Exclusive Economic Zone"@en.
+<http://www.eea.europa.eu/data-and-maps/data/natura-2> <http://www.w3.org/2000/01/rdf-schema#label> "Natura 2000 Sites, European Environment Agency (EEA) (Updates 2011)".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/27184?t=1639222960>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/wy.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/wy.ttl>.

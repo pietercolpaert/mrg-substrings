@@ -1,0 +1,177 @@
+<http://marineregions.org/mrgid/59228?t=1639226313> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HABMonitoringGrid>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/59228/geometries?source=243&attributeValue=CL-03>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1910>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/59228>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T12:38:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CL-03"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-72.97 -43.18,-75.21 -43.18,-75.21 -45.97,-72.97 -45.97,-72.97 -43.18)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-74.12 -44.56)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://haedat.iode.org>.
+<http://marineregions.org/mrgid/1910> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Pacific Ocean"@en.
+<http://haedat.iode.org> <http://www.w3.org/2000/01/rdf-schema#label> "Harmful Algae Event Database [HAEDAT] (2018)".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/59228?t=1639226313>.
+<http://marineregions.org/mrgid/56952?t=1639220428> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Drift>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56952/geometries?source=95&attributeValue=56952>;
+    <http://marineregions.org/ns/ontology#isInfluencedBy> <http://marineregions.org/mrgid/56802>, <http://marineregions.org/mrgid/30245>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56952>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Maximum age: Oligocene"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clarion Clipperton Zone Drift B6.Z6.4"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-123.814 15.634,-123.827 15.634,-123.827 15.603,-123.814 15.603,-123.814 15.634)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-123.82004 15.6181875)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1073 <http://www.w3.org/2000/01/rdf-schema#label> "Juan, C., Van Rooij, D., & De Bruycker, W. (2018). An assessment of bottom current controlled sedimentation in Pacific Ocean abyssal environments. Marine Geology, 403, 20-33.".
+_:n3-1072 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1073.
+<http://marineregions.org/mrgid/56952?t=1639220428> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1072.
+<http://marineregions.org/mrgid/56802> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lower Circumpolar Water"@en.
+<http://marineregions.org/mrgid/30245> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Deep Water"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56952?t=1639220428>.
+<http://marineregions.org/mrgid/59229?t=1639221125> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HABMonitoringGrid>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/59229/geometries?source=243&attributeValue=CL-07>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1910>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/59229>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:12:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CL-07"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-72.9984 -43.10854,-74.62459 -43.10854,-74.62459 -45.819,-72.9984 -45.819,-72.9984 -43.10854)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-73.47111 -44.76036)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://haedat.iode.org>.
+<http://marineregions.org/mrgid/1910> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Pacific Ocean"@en.
+<http://haedat.iode.org> <http://www.w3.org/2000/01/rdf-schema#label> "Harmful Algae Event Database [HAEDAT] (2018)".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/59229?t=1639221125>.
+<http://marineregions.org/mrgid/8401?t=1639221197> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/7455>, <http://marineregions.org/mrgid/25563>, <http://marineregions.org/mrgid/49121>, <http://marineregions.org/mrgid/49354>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/8401/geometries?source=79&attributeValue=8401>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>, <http://marineregions.org/mrgid/8635>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/25563>;
+    <http://marineregions.org/ns/ontology#partlyContains> <http://marineregions.org/mrgid/7456>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/8401>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:13:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.marineregions.org/eezdetails.php?mrgid=8401>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Clipperton Island Exclusive Economic Zone"@en;
+    <http://www.w3.org/2004/02/skos/core#note> "Centroid calculation method: Label"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clipperton Exclusive Economic Zone"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-105.81588 13.67082,-112.61852 13.67082,-112.61852 6.93649,-105.81588 6.93649,-105.81588 13.67082)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-109.21728 10.30869)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.marineregions.org>.
+<http://marineregions.org/mrgid/7455> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#FractureZone>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clipperton Fracture Zone"@en.
+<http://marineregions.org/mrgid/25563> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clipperton part of the North Pacific Ocean"@en.
+<http://marineregions.org/mrgid/49121> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TerritorialSea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clipperton 12 NM"@en.
+<http://marineregions.org/mrgid/49354> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ContiguousZone>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clipperton 24 NM"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<http://marineregions.org/mrgid/8635> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Dependency>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clipperton Island"@en.
+<http://marineregions.org/mrgid/7456> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Rise>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "East Pacific Rise"@en.
+<http://www.marineregions.org> <http://www.w3.org/2000/01/rdf-schema#label> "Flanders Marine Institute (2019). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 11. Available online at http://www.marineregions.org/. https://doi.org/10.14284/386".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/8401?t=1639221197>.
+<http://marineregions.org/mrgid/1616?t=1639222066> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1616/geometries?source=3&attributeValue=00AFGK>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/156>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1616>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:27:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clock House"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-0.028699 51.4154,-0.068585 51.4154,-0.068585 51.39766,-0.028699 51.39766,-0.028699 51.4154)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-0.048642 51.40653)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/156> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Borough>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bromley"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1616?t=1639222066>.
+<http://marineregions.org/mrgid/57251?t=1639222249> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/57251/geometries?source=232&attributeValue=18487>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4365>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/57251>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:30:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clara Island"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(173.895169 -40.99983)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://gazetteer.linz.govt.nz/>.
+<http://marineregions.org/mrgid/4365> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tasman Sea"@en.
+<https://gazetteer.linz.govt.nz/> <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand Gazetteer".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/57251?t=1639222249>.
+<http://marineregions.org/mrgid/1169?t=1639222326> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1169/geometries?source=3&attributeValue=PV20>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/181>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1169>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:32:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clenleu"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(1.90521 50.55099,1.86461 50.55099,1.86461 50.51161,1.90521 50.51161,1.90521 50.55099)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(1.88491 50.5313)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/181> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Canton>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hucqueliers"@fr.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1169?t=1639222326>.
+<http://marineregions.org/mrgid/56948?t=1639222894> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Drift>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56948/geometries?source=95&attributeValue=56948>;
+    <http://marineregions.org/ns/ontology#isInfluencedBy> <http://marineregions.org/mrgid/56802>, <http://marineregions.org/mrgid/30245>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56948>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:41:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Maximum age: Oligocene"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clarion Clipperton Zone Drift B2.Z5.1"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-127.377 14.904,-127.395 14.904,-127.395 14.861,-127.377 14.861,-127.377 14.904)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-127.38622 14.8809828)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1969 <http://www.w3.org/2000/01/rdf-schema#label> "Juan, C., Van Rooij, D., & De Bruycker, W. (2018). An assessment of bottom current controlled sedimentation in Pacific Ocean abyssal environments. Marine Geology, 403, 20-33.".
+_:n3-1968 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1969.
+<http://marineregions.org/mrgid/56948?t=1639222894> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1968.
+<http://marineregions.org/mrgid/56802> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lower Circumpolar Water"@en.
+<http://marineregions.org/mrgid/30245> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Deep Water"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56948?t=1639222894>.
+<http://marineregions.org/mrgid/56942?t=1639223866> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Drift>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56942/geometries?source=95&attributeValue=56942>;
+    <http://marineregions.org/ns/ontology#isInfluencedBy> <http://marineregions.org/mrgid/56802>, <http://marineregions.org/mrgid/30245>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56942>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:57:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Drift type: Elongated Separated"@en, "Maximum age: Oligocene"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clarion Clipperton Zone Drift B2.Z1.1"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-128.204 15.812,-128.223 15.812,-128.223 15.752,-128.204 15.752,-128.204 15.812)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-128.21177 15.7791439)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2332 <http://www.w3.org/2000/01/rdf-schema#label> "Juan, C., Van Rooij, D., & De Bruycker, W. (2018). An assessment of bottom current controlled sedimentation in Pacific Ocean abyssal environments. Marine Geology, 403, 20-33.".
+_:n3-2331 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-2332.
+<http://marineregions.org/mrgid/56942?t=1639223866> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2331.
+<http://marineregions.org/mrgid/56802> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lower Circumpolar Water"@en.
+<http://marineregions.org/mrgid/30245> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Deep Water"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56942?t=1639223866>.
+<http://marineregions.org/mrgid/56950?t=1639223968> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Drift>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/56950/geometries?source=95&attributeValue=56950>;
+    <http://marineregions.org/ns/ontology#isInfluencedBy> <http://marineregions.org/mrgid/56802>, <http://marineregions.org/mrgid/30245>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/56950>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:59:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Drift type: Elongated Separated"@en, "Maximum age: Oligocene"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clarion Clipperton Zone Drift B6.Z6.2"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-123.752 15.612,-123.774 15.612,-123.774 15.552,-123.752 15.552,-123.752 15.612)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-123.76515 15.5793154)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-2381 <http://www.w3.org/2000/01/rdf-schema#label> "Juan, C., Van Rooij, D., & De Bruycker, W. (2018). An assessment of bottom current controlled sedimentation in Pacific Ocean abyssal environments. Marine Geology, 403, 20-33.".
+_:n3-2380 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-2381.
+<http://marineregions.org/mrgid/56950?t=1639223968> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2380.
+<http://marineregions.org/mrgid/56802> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lower Circumpolar Water"@en.
+<http://marineregions.org/mrgid/30245> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#WaterMass>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Deep Water"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/56950?t=1639223968>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/cl.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/cl.ttl>.

@@ -1,0 +1,14 @@
+<http://marineregions.org/mrgid/22528?t=1639221504> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Estuary>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/22528/geometries?source=158&attributeValue=22528>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/8936>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/22528>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:18:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mzintlava Estuary"@af;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(29.689744 -31.521959)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/vmdcdata/mangroves/>.
+<http://marineregions.org/mrgid/8936> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#ProvinceAdministrative>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Cape, Province of the"@en.
+<http://www.vliz.be/vmdcdata/mangroves/> <http://www.w3.org/2000/01/rdf-schema#label> "Mangroves".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/22528?t=1639221504>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/mz.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/mz.ttl>.

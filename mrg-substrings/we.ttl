@@ -1,0 +1,144 @@
+<http://marineregions.org/mrgid/23491?t=1639221275> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IOSRegion>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/23508>, <http://marineregions.org/mrgid/23509>, <http://marineregions.org/mrgid/23510>, <http://marineregions.org/mrgid/23511>, <http://marineregions.org/mrgid/23512>, <http://marineregions.org/mrgid/23513>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/23491/geometries?source=68&attributeValue=23508>, <http://marineregions.org/mrgid/23491/geometries?source=68&attributeValue=23509>, <http://marineregions.org/mrgid/23491/geometries?source=68&attributeValue=23510>, <http://marineregions.org/mrgid/23491/geometries?source=68&attributeValue=23511>, <http://marineregions.org/mrgid/23491/geometries?source=68&attributeValue=23512>, <http://marineregions.org/mrgid/23491/geometries?source=68&attributeValue=23513>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/23490>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/23491>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:14:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Coast Vancouver Island"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point( )"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1369 <http://www.w3.org/2000/01/rdf-schema#label> "Fisheries and Oceans Canada (Pacific); Marine Environmental Assessment Database.  MDE Version 5.0.1 ".
+<http://marineregions.org/mrgid/23491?t=1639221275> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1369.
+<http://marineregions.org/mrgid/23508> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IOSRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hecate Strait Region"@en.
+<http://marineregions.org/mrgid/23509> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IOSRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "SVI Shelf Slope Region"@en.
+<http://marineregions.org/mrgid/23510> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IOSRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "SVI Basin Region"@en.
+<http://marineregions.org/mrgid/23511> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IOSRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "NVI Shelf Slope Region"@en.
+<http://marineregions.org/mrgid/23512> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IOSRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "NVI Basin Region"@en.
+<http://marineregions.org/mrgid/23513> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IOSRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "XYPoint Region C"@en.
+<http://marineregions.org/mrgid/23490> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#GeneralRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "IOS Regions"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/23491?t=1639221275>.
+<http://marineregions.org/mrgid/14308?t=1639221673> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Coast>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/14308/geometries?source=163&attributeValue=14308>;
+    <http://marineregions.org/ns/ontology#isAdjacentTo> <http://marineregions.org/mrgid/8396>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/2176>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/14308>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:21:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "West Coast of Southern Africa"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Coast of South Africa"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(18.32 -31.96)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+<http://marineregions.org/mrgid/8396> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South African Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/2176> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Nation>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Africa"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/14308?t=1639221673>.
+<http://marineregions.org/mrgid/57498?t=1639221805> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Glacier>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/57498/geometries?source=232&attributeValue=10705>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1907>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/57498>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:23:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weatherwax Glacier"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(163.6 -77.633333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://gazetteer.linz.govt.nz/>.
+<http://marineregions.org/mrgid/1907> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Ocean"@en.
+<https://gazetteer.linz.govt.nz/> <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand Gazetteer".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/57498?t=1639221805>.
+<http://marineregions.org/mrgid/30281?t=1639221987> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Drift>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/30281/geometries?source=95&attributeValue=30281>;
+    <http://marineregions.org/ns/ontology#isInfluencedBy> <http://marineregions.org/mrgid/5395>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/8389>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/30281>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:26:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "Coordinate information: Coordinates redefined in 2014. \nThese coordinates represent the centroid and the bounding box of the polygon from the shapefile."@en, "Drift type: Elongated mounted and separated drift"@en, "Mean contourite type: Muddy"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Falkland Trough Drift"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-53.374101 -52.838871,-56.281502 -52.838871,-56.281502 -53.839872,-53.374101 -53.839872,-53.374101 -52.838871)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-54.828605549601 -53.387304953092)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1640 <http://www.w3.org/2000/01/rdf-schema#label> "Cunningham, A. P., et al. (2002). Contourite sedimentation in the Falkland Trough, western South Atlantic. Deep-Water Contourite Systems: Modern Drifts and Ancient Series, Seismic and Sedimentary Characteristics. M. S. Stoker, C. J. Pudsey, J. A. Howe, J. C. Faugeres and A. R. Viana. London, Geological Society. 22: 337-352.".
+_:n3-1639 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-1640.
+<http://marineregions.org/mrgid/30281?t=1639221987> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1639.
+<http://marineregions.org/mrgid/5395> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Current>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Antarctic Circumpolar Current"@en.
+<http://marineregions.org/mrgid/8389> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overlapping claim Falkland / Malvinas Islands: UK / Argentina"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/30281?t=1639221987>.
+<http://marineregions.org/mrgid/20822?t=1639222191> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Coast>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/20822/geometries?source=166&attributeValue=20822>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1924>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/20822>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:29:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Pacific Coast of North America"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Coast of North America"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-77.9 71.3,-172.1 71.3,-172.1 7.5,-77.9 7.5,-77.9 71.3)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-126.91406 47.7541)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.geonames.org>.
+<http://marineregions.org/mrgid/1924> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Continent>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North America"@en.
+<http://www.geonames.org> <http://www.w3.org/2000/01/rdf-schema#label> "GeoNames".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/20822?t=1639222191>.
+<http://marineregions.org/mrgid/21810?t=1639222396> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/21810/geometries?source=38&attributeValue=21810>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/21771>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/21810>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:33:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Sumatra"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(97.4318 -0.120136)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1779 <http://www.w3.org/ns/prov#wasAttributedTo> <https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas>.
+<http://marineregions.org/mrgid/21810?t=1639222396> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1779.
+<http://marineregions.org/mrgid/21771> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineProvince>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Andaman"@en.
+<https://www.worldwildlife.org/publications/marine-ecoregions-of-the-world-a-bioregionalization-of-coastal-and-shelf-areas> <http://www.w3.org/2000/01/rdf-schema#label> "Spalding, M. D. Fox, H. E. Allen, G. R. Davidson, N. Ferdana, Z. A. Finlayson, M. Halpern, B. S. Jorge, M. A. Lombana, A. Lourie, S. A., (2007). Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas. Bioscience 2007, VOL 57; numb 7, pages 573-584. doi: 10.1641/B570707".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/21810?t=1639222396>.
+<http://marineregions.org/mrgid/33591?t=1639222469> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Guyot>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/33591/geometries?source=111&attributeValue=6265>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/33591>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:34:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-26. Proposer: Zhanhai Zhang, Sub Committee on Undersea Feature Names of China Committee on Geographical Names. Year of proposal: 2013."@en, "GEBCO: discoverer and year of discovery: Discoverer: Chinese research vessel \"Dayang Yihao\". Year of discovery: 1998. History: Weiyu comes from Shijing-Xiaoya (Shijing is a collection of ancient Chinese poems from 11 B.C. to 6 B.C.). This poem tells a story of a shepherd who dreamed that the loc"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weiyu Guyot"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-178.7083 18.1083)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/33591?t=1639222469>.
+<http://marineregions.org/mrgid/15331?t=1639222848> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#GeneralSeaArea>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/15331/geometries?source=151&attributeValue=15331>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/3351>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/15331>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:40:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Ionian Sea"@en;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(16.9 38.55)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>.
+_:n3-1951 <http://www.w3.org/2000/01/rdf-schema#label> "Masdea".
+<http://marineregions.org/mrgid/15331?t=1639222848> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-1951.
+<http://marineregions.org/mrgid/3351> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ionian Sea"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/15331?t=1639222848>.
+<http://marineregions.org/mrgid/7029?t=1639223408> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Canyons>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/7029/geometries?source=110&attributeValue=3319>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1907>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/7029>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:50:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:-156051>;
+    <http://www.w3.org/2004/02/skos/core#historyNote> "Previous coordinates: Lat: -70.75; Long: -14; minLat: -70.9617; minLong: -14.66; maxLat: -70.5683; maxLong: -12.175"@en;
+    <http://www.w3.org/2004/02/skos/core#note> "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCGN-9. Proposer: Hans Werner Schenke, Alfred-Wegener Institute for Polar and Marine Research (AWI), Germany. Year of proposal: 1989."@en, "GEBCO: discoverer and year of discovery: Discoverer: German research vessel \"Polarstern\". Year of discovery: 1985. History: Named after the German polar scientist Alfred Lothar Wegener (1880-1930)."@en, "Coordinates in ACUF: Latitude: -70.75; Longitude: -14"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wegener Canyon"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-12.175 -70.5683,-14.66 -70.5683,-14.66 -70.9617,-12.175 -70.9617,-12.175 -70.5683)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-13.29443409 -70.71946784)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1907> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Ocean"@en.
+_:n3-2175 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "-156051".
+<urn:acuf:ufi:-156051> <https://schema.org/identifier> _:n3-2175;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D-156051>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/7029?t=1639223408>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/we.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/we.ttl>.

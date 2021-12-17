@@ -1,0 +1,81 @@
+<http://marineregions.org/mrgid/1816?t=1639220975> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1816/geometries?source=3&attributeValue=00BAGG>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/159>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1816>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:09:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Longthornton"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-0.127705 51.41721,-0.153967 51.41721,-0.153967 51.4001,-0.127705 51.4001,-0.127705 51.41721)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-0.140836 51.40865)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/159> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Borough>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merton"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1816?t=1639220975>.
+<http://marineregions.org/mrgid/1535?t=1639221927> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ward>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/1535/geometries?source=3&attributeValue=00ABGG>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/145>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/1535>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:25:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Longbridge"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(0.109651 51.5509,0.080133 51.5509,0.080133 51.53762,0.109651 51.53762,0.109651 51.5509)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(0.094892 51.54427)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/145> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Borough>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Barking and Dagenham"@en.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/1535?t=1639221927>.
+<http://marineregions.org/mrgid/24235?t=1639222040> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#SeaVoXSeaArea-Sub-region>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/24235/geometries?source=128&attributeValue=24235>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/23730>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/24235>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:27:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lough Foyle"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-6.896154 55.237141,-7.315965176 55.237141,-7.315965176 55.00629425,-6.896154 55.00629425,-6.896154 55.237141)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-7.088491050002 55.117040804919)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://www.bodc.ac.uk/resources/vocabularies/seavox/>.
+<http://marineregions.org/mrgid/23730> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#SeaVoXSeaArea-Level3>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Inner Seas off the West Coast of Scotland"@en.
+<https://www.bodc.ac.uk/resources/vocabularies/seavox/> <http://www.w3.org/2000/01/rdf-schema#label> "The SeaVoX Salt and Fresh Water Body Gazetteer".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/24235?t=1639222040>.
+<http://marineregions.org/mrgid/7470?t=1639222920> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Borderland>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/7470/geometries?source=110&attributeValue=1793>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1904>, <http://marineregions.org/mrgid/8323>;
+    <http://marineregions.org/ns/ontology#replaces> <http://marineregions.org/mrgid/7061>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/7470>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:42:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Lowreenne Massif"@en, "Lowreenne Seamounts"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:9032677>;
+    <http://www.w3.org/2004/02/skos/core#historyNote> "Previous coordinates: Lat: -45.5188724; Long: -145.2683; minLat: -45.9167; minLong: 144.6667; maxLat: -45.0333; maxLong: 146"@en;
+    <http://www.w3.org/2004/02/skos/core#note> ": Coordinate update (2002): \r\nLatitude -45.41666667°, Longitude 145.08333333°; Min. Lat: -45.0333°, Min. Long: 144.6667°, Max. Lat: -45.9167°, Max. Long 146°"@en, "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-14. Proposer: J. J. Doyle, Australian Hydrographic Service (AHS) on behalf of Neville Exon, Australian Geological Survey Organisation (AGSO). Year of proposal: 1998."@en, "GEBCO: discoverer and year of discovery: History: Named after an Aboriginal band of south-west tribe, from Low Rocky Point, Tasmania, Australia."@en, "Additional information: Formerly, Lowreenne Seamounts."@en, "Coordinates in ACUF: Latitude: -45.416667; Longitude: 145.083333"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lowreenne Borderland"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(146 -45.033333,144.666667 -45.033333,144.666667 -45.916667,146 -45.916667,146 -45.033333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(145.307275 -45.511382)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/1904> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indian Ocean"@en.
+<http://marineregions.org/mrgid/8323> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australian Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/7061> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Seamounts>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lowreenne Seamounts"@en.
+_:n3-1983 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "9032677".
+<urn:acuf:ufi:9032677> <https://schema.org/identifier> _:n3-1983;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D9032677>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/7470?t=1639222920>.
+<http://marineregions.org/mrgid/924?t=1639223002> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Commune>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/924/geometries?source=3&attributeValue=PB25>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/182>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/924>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:43:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louches"@fr;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(2.03683 50.85192,1.95851 50.85192,1.95851 50.80546,2.03683 50.80546,2.03683 50.85192)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(1.99767 50.82869)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.vliz.be/projects/sail>.
+<http://marineregions.org/mrgid/182> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Canton>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ardres"@fr.
+<http://www.vliz.be/projects/sail> <http://www.w3.org/2000/01/rdf-schema#label> "SAIL".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/924?t=1639223002>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/lo.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/lo.ttl>.

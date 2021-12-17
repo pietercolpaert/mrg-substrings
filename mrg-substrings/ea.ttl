@@ -1,0 +1,162 @@
+<http://marineregions.org/mrgid/48127?t=1639221599> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level4>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/48127/geometries?source=50&attributeValue=EAS-OO>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/47617>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/47617>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/48127>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:19:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:tdwg:wgsrpd:EAS-OO>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Easter Is."@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(-105.45639038086 -26.452503204346,-109.44917297363 -26.452503204346,-109.44917297363 -27.201946258545,-105.45639038086 -27.201946258545,-105.45639038086 -26.452503204346)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(-109.31547916444 -27.117692507945)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <https://github.com/tdwg/wgsrpd>.
+<http://marineregions.org/mrgid/47617> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#TDWG-Level3>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Easter Is."@en.
+_:n3-1471 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> "TDWG code";
+    <https://schema.org/value> "EAS-OO".
+<urn:tdwg:wgsrpd:EAS-OO> <https://schema.org/identifier> _:n3-1471;
+    <https://schema.org/url> <https://github.com/tdwg/wgsrpd>.
+<https://github.com/tdwg/wgsrpd> <http://www.w3.org/2000/01/rdf-schema#label> "TDWG - World Geographical Scheme for Recording Plant Distributions".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/48127?t=1639221599>.
+<http://marineregions.org/mrgid/7351?t=1639221753> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ridge>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/7351/geometries?source=110&attributeValue=852>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/4268>;
+    <http://marineregions.org/ns/ontology#isPartlyPartOf> <http://marineregions.org/mrgid/8354>, <http://marineregions.org/mrgid/8353>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/7351>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:22:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sheba Ridge"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <urn:acuf:ufi:-153256>;
+    <http://www.w3.org/2004/02/skos/core#historyNote> "Previous coordinates: Lat: 14.58333333; Long: 53.5; minLat: 12.75; minLong: 52.166667; maxLat: 14.933333; maxLong: 58.25"@en;
+    <http://www.w3.org/2004/02/skos/core#note> ": Updated coordinates (GEBCO May 2014) - \r\nPrevious values (GEBCO October 2002):\r\n [Min. Lat: 14.6667°] ; \r\n[Min. Long: 52.25°] ;\r\n [Max. Lat: 14.8333°] ; \r\n[Max. Long: 55°]"@en, "GEBCO: associated meeting, proposer and year of proposal: Associated meeting: SCUFN-15."@en, "GEBCO: discoverer and year of discovery: History: Named from the ancient kingdom of Sheba, in southern Arabia."@en, "Coordinates in ACUF: Latitude: 14.666667; Longitude: 54"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "East Sheba Ridge"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(58.25 14.933333,52.166667 14.933333,52.166667 12.75,58.25 12.75,58.25 14.933333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(55.59647984 14.92274443)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/prov#hadPrimarySource> <http://www.ngdc.noaa.gov/gazetteer/>.
+<http://marineregions.org/mrgid/4268> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Arabian Sea"@en.
+<http://marineregions.org/mrgid/8354> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Omani Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/8353> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Yemeni Exclusive Economic Zone"@en.
+_:n3-1532 a <https://schema.org/PropertyValue>;
+    <https://schema.org/propertyID> <http://www.wikidata.org/entity/P2326>;
+    <https://schema.org/value> "-153256".
+<urn:acuf:ufi:-153256> <https://schema.org/identifier> _:n3-1532;
+    <https://schema.org/url> <https://geonames.nga.mil/arcgis/rest/services/Research/GeoNames/MapServer/0/query?where=UNIQUE_FEATURE_IDENTIFIER_UFI%3D-153256>.
+<http://www.ngdc.noaa.gov/gazetteer/> <http://www.w3.org/2000/01/rdf-schema#label> "IHO-IOC GEBCO Gazetteer of Undersea Feature Names".
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/7351?t=1639221753>.
+<http://marineregions.org/mrgid/4302?t=1639223162> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/5843>, <http://marineregions.org/mrgid/5844>, <http://marineregions.org/mrgid/8884>, <http://marineregions.org/mrgid/9041>, <http://marineregions.org/mrgid/22646>, <http://marineregions.org/mrgid/22653>, <http://marineregions.org/mrgid/22664>, <http://marineregions.org/mrgid/24939>, <http://marineregions.org/mrgid/25459>, <http://marineregions.org/mrgid/25460>, <http://marineregions.org/mrgid/25461>, <http://marineregions.org/mrgid/25462>;
+    <http://marineregions.org/ns/ontology#hasGeometry> <http://marineregions.org/mrgid/4302/geometries?source=25&attributeValue=50>;
+    <http://marineregions.org/ns/ontology#isAdjacentTo> <http://marineregions.org/mrgid/22647>;
+    <http://marineregions.org/ns/ontology#isPartOf> <http://marineregions.org/mrgid/1908>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/8557>, <http://marineregions.org/mrgid/22004>, <http://marineregions.org/mrgid/24107>;
+    <http://marineregions.org/ns/ontology#partlyContains> <http://marineregions.org/mrgid/8321>, <http://marineregions.org/mrgid/8327>, <http://marineregions.org/mrgid/8486>, <http://marineregions.org/mrgid/8487>;
+    <http://purl.org/dc/terms/isVersionOf> <http://marineregions.org/mrgid/4302>;
+    <http://purl.org/dc/terms/modified> "2021-12-11T11:46:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Tung Hai"@ch, "East China Sea"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern China Sea"@en;
+    <http://www.w3.org/ns/dcat#bbox> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Polygon(131.1322036827 33.37195920955,118.47804582106 33.37195920955,118.47804582106 24.05760752069,131.1322036827 24.05760752069,131.1322036827 33.37195920955)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/dcat#centroid> "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point(125.21708986497 29.13089135213)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+    <http://www.w3.org/ns/hydra/core#next> <http://marineregions.org/mrgid/4302?page=2&t=1639223162>.
+_:n3-2063 <http://www.w3.org/2000/01/rdf-schema#label> "(1953). Limits of oceans and seas. 3rd edition. IHO Special Publication, 23. International Hydrographic Organization (IHO): Monaco. 38 pp.".
+_:n3-2062 <http://www.w3.org/ns/prov#wasAttributedTo> _:n3-2063.
+<http://marineregions.org/mrgid/4302?t=1639223162> <http://www.w3.org/ns/prov#hadPrimarySource> _:n3-2062.
+<http://marineregions.org/mrgid/5843> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Trough>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Okinawa Trough"@en.
+<http://marineregions.org/mrgid/5844> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Ridge>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nansei-Shoto Ridge"@en.
+<http://marineregions.org/mrgid/8884> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Archipelago>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ryukyu Islands"@en.
+<http://marineregions.org/mrgid/9041> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Okinawa"@en.
+<http://marineregions.org/mrgid/22646> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bay>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kagoshima Bay"@en.
+<http://marineregions.org/mrgid/22653> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ie Island"@en.
+<http://marineregions.org/mrgid/22664> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Island>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kume island"@en.
+<http://marineregions.org/mrgid/24939> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Caldera>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kikai Caldera"@en.
+<http://marineregions.org/mrgid/25459> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwanese part of the Eastern China Sea"@en.
+<http://marineregions.org/mrgid/25460> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Korean part of the Eastern China Sea"@en.
+<http://marineregions.org/mrgid/25461> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese part of the Eastern China Sea"@en.
+<http://marineregions.org/mrgid/25462> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Japanese part of the Eastern China Sea"@en.
+<http://marineregions.org/mrgid/22647> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#InhabitedPlace>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torishima"@en.
+<http://marineregions.org/mrgid/1908> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Pacific Ocean"@en.
+<http://marineregions.org/mrgid/8557> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#LargeMarineEcosystem>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "East China Sea"@en.
+<http://marineregions.org/mrgid/22004> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineEcoregionOfTheWorldMEOW>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "East China Sea"@en.
+<http://marineregions.org/mrgid/24107> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#SeaVoXSeaArea-Sub-region>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "East China Sea"@en.
+<http://marineregions.org/mrgid/8321> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwanese Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/8327> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "South Korean Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/8486> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/8487> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#EEZ>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Japanese Exclusive Economic Zone"@en.
+<http://marineregions.org/mrgid/4302> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/25464>, <http://marineregions.org/mrgid/25465>, <http://marineregions.org/mrgid/33471>, <http://marineregions.org/mrgid/33477>, <http://marineregions.org/mrgid/33478>, <http://marineregions.org/mrgid/33482>, <http://marineregions.org/mrgid/33483>, <http://marineregions.org/mrgid/33485>, <http://marineregions.org/mrgid/33491>, <http://marineregions.org/mrgid/33988>, <http://marineregions.org/mrgid/34130>, <http://marineregions.org/mrgid/34237>, <http://marineregions.org/mrgid/35154>, <http://marineregions.org/mrgid/48936>, <http://marineregions.org/mrgid/48954>, <http://marineregions.org/mrgid/58810>, <http://marineregions.org/mrgid/58811>;
+    <http://marineregions.org/ns/ontology#isRelatedTo> <http://marineregions.org/mrgid/31451>, <http://marineregions.org/mrgid/31458>;
+    <http://marineregions.org/ns/ontology#partlyContains> <http://marineregions.org/mrgid/33662>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Tung Hai"@ch, "East China Sea"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern China Sea"@en;
+    <http://www.w3.org/ns/hydra/core#next> <http://marineregions.org/mrgid/4302?page=3&t=1639223162>.
+<http://marineregions.org/mrgid/25464> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Joint regime area Japan - Korea part of the Eastern China Sea"@en.
+<http://marineregions.org/mrgid/25465> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#MarineRegion>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overlapping claim Senkaku Islands: Japan / China / Taiwan part of the Eastern China Sea"@en.
+<http://marineregions.org/mrgid/33471> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Knolls>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Okinoerabu Knoll"@en.
+<http://marineregions.org/mrgid/33477> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Hills>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarama Hill"@en.
+<http://marineregions.org/mrgid/33478> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Knolls>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarama Knoll"@en.
+<http://marineregions.org/mrgid/33482> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Hole>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Yanbaru Hole"@en.
+<http://marineregions.org/mrgid/33483> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Knolls>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Yanbaru Knoll"@en.
+<http://marineregions.org/mrgid/33485> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Hole>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Yoron Hole"@en.
+<http://marineregions.org/mrgid/33491> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Caldera>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Amami Calderas"@en.
+<http://marineregions.org/mrgid/33988> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Reef>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Socotra Rock"@en.
+<http://marineregions.org/mrgid/34130> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Seachannel>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nishi-gotō Seachannels"@en.
+<http://marineregions.org/mrgid/34237> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Bank>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Great Yangtze Bank"@en.
+<http://marineregions.org/mrgid/35154> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#Knolls>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rock Knoll"@en.
+<http://marineregions.org/mrgid/48936> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IslandGroup>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Senkaku Islands"@en.
+<http://marineregions.org/mrgid/48954> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#OverlappingClaim>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overlapping claim Senkaku Islands: Japan / China / Taiwan"@en.
+<http://marineregions.org/mrgid/58810> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HABMonitoringGrid>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CN-06"@en.
+<http://marineregions.org/mrgid/58811> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HABMonitoringGrid>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CN-07"@en.
+<http://marineregions.org/mrgid/31451> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#River>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Yangtze River"@en.
+<http://marineregions.org/mrgid/31458> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#River>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Qiantang River"@en.
+<http://marineregions.org/mrgid/33662> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#LowerBathyalProvinces>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West Pacific Lower Bathyal Province"@en.
+<http://marineregions.org/mrgid/4302> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#IHOSeaArea>;
+    <http://marineregions.org/ns/ontology#contains> <http://marineregions.org/mrgid/59148>;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Tung Hai"@ch, "East China Sea"@en;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern China Sea"@en.
+<http://marineregions.org/mrgid/59148> a <http://marineregions.org/ns/ontology#MRGeoObject>, <http://marineregions.org/ns/placetypes#HABMonitoringGrid>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "JP-05"@en.
+<https://marineregions.org/feed> <https://w3id.org/tree#member> <http://marineregions.org/mrgid/4302?t=1639223162>.
+<https://www.pieter.pm/mrg-substrings/mrg-substrings/ea.ttl> a <https://w3id.org/tree#Node>.
+<https://marineregions.org/feed> <http://rdfs.org/ns/void#subset> <https://www.pieter.pm/mrg-substrings/mrg-substrings/ea.ttl>.
